@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 192, 192, 192; /* Light gray */
+  --background-end-rgb: 211, 211, 211;   /* Darker gray */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 54, 54, 54; /* Dark gray */
+    --background-end-rgb: 77, 77, 77;   /* Darker gray */
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .display-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.scroll-bar {
+  scrollbar-width: thin;
+  scrollbar-color: #888 #e0e0e0;
+}
+
+.scroll-bar::-webkit-scrollbar {
+  height: 12px;
+}
+
+.scroll-bar::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+.scroll-bar::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;
+  border: 3px solid #e0e0e0;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}

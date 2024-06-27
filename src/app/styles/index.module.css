@@ -1,0 +1,15 @@
+/* pages/index.module.css */
+.container {
+    padding: 20px;
+  }
+  
+  .scrollContainer {
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+  
+  .scrollContainer::-webkit-scrollbar {
+    display: none; /* Hide the scrollbar for a cleaner look */
+  }
+  

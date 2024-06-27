@@ -1,0 +1,133 @@
+/* styles/PastFYP.module.css */
+.container {
+  width: 100%; /* Full width */
+  max-width: 1200px; /* Maximum width for readability */
+  padding: 0 3px; /* Padding on the left and right */
+  border-radius: 10px; /* Rounded corners */
+  margin: 0 auto; /* Center horizontally */
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.filter {
+  display: flex;
+  align-items: center;
+}
+
+.filterInput {
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.filterButton{
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+  cursor: pointer; 
+}
+
+.filterButton:hover {
+  background-color: #e0e0e0;
+  cursor: pointer; 
+}
+
+.select-options:hover{
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow-y: auto;
+  max-height: 150px;
+  display: none;
+}
+
+
+
+.refreshButton, .iconButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.tableContainer {
+  width: 100%;
+  overflow-x: auto; /* Ensure table is scrollable horizontally */
+}
+
+.styledTable {
+  width: 100%; /* Ensure table fills the container */
+  margin: auto;
+  /* border-collapse: collapse; */
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+}
+
+.styledTable th, .styledTable td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.styledTable th {
+  font-weight: bold;
+}
+
+.styledTable tr:hover {
+  background: #f1f1f1;
+  color: #000;
+}
+
+.snackbar {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 200px;
+}
+
+.snackbarClose {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Media query for responsiveness */
+@media (max-width: 768px) {
+  .container {
+    width: 90%; /* Adjust as needed for smaller screens */
+  }
+}

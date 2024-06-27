@@ -1,0 +1,80 @@
+Internet of Things (IoT) Patience Health Monitoring System
+Borrowing Multimedia Equipment Mobile Application using Android studio
+SBS (SMART BLIND STICK)- AN AID FOR VISUALLY IMPAIRED TO WALK INDEPEN
+Computerized Budgeting System
+UNIMAS graduates Career Seeker
+Anti-Theft Device
+IoT Based Smart Child Monitoring and Tracking System
+Ez-Life: Advertisement Management Application
+Smart Liquid Fertilizer Management System
+UNIMAS Rehab Care
+Employee Attendance System for Payroll Crosschecking System
+FCSIT Book-and-Meet
+Sub-Agent New SIM Registration System
+Cal-Ex: A Calorie-Exercise App
+Happy Health Manager: Manage Your Personal Health Record (PHR) By Using Mobile App
+Android application for shops search
+Visa validation system
+Online Booking System for Pusat Islam Universiti Sains Malaysia
+Face Recognition for Security Surveillance
+IoT based Water Quality Buoy
+A Web-based Industrial Training Database Management System
+Modelling FYP student selection (supervisor perspective)
+Modelling FYP topic selection (Student Perspective)
+Digital Library for Islamic Newspaper Article
+Rain Intensity Detection System
+Car Model Recognition using Convolution Neural Network
+Modelling of H1N1 Influenza in Sarawak
+Smart Socket: A Energy Consumption Monitoring Adapter
+Smart Light for Motorcycle Helmet
+Modelling the Yield of Pineapples
+Restoran Kolam Pancing Batu 23 reservation system
+Water Column Early Warning System
+Project Application & Monitoring System (ProCams) for Miri Resident Office
+Intergrated Tourism Booking System
+Mobile Platform for Local Home Services
+Developing a Web-based Appointment Management System for HSE Department
+Integrating Bipartite Network Module for Disease Model
+VCare : Development of an E-Commerce Website for Pharmacy Shop System
+MATHEMATHICAL MODELLING OF HFMD
+Mathematical Modelling for formation glucose-insulin of diabetes
+Web-based Road Severity Report System
+Borneo Molluscs Online Database Management System 2.0
+Android Mobile Application for Food Recipe
+eCafe: Cafe and Leave Management System for T Three Coffee, Sibu
+Identifying Language Using Distinct Word List
+Mathematical modelling of Leukemia disease on development of white blood cell.
+Final Examination Cover Paper Generator
+Exploratory Data Analysis in R of Global Epidermic Data
+Designing Interactive Dictionary for Preschool Children
+Mathematics Game Mobile Applications for Primary school Year 1 students.
+Emergency Notification Application for Mobile Devices
+DeTract: Debt Tracker and Analysis Mobile Application
+Development of Mobile Learning Basic Mandarin language application  in UNIMAS using Android.
+IOT based car parking management system using car plate recognition
+UNIMAS Students Assistant System
+Proximity Marketing in airport using beacon technology.
+STUDENT EXAMINATION ATTENDANCE FOR FCSIT
+AnaIslam Doa Learning Mobile Application for Preschool Kids
+Accounting system for mosque management
+Nazliza Kek Lapis Sarawak Ordering System
+Web Development of Mosque Committee election system
+E-learning – MyBody Parts for kids based on Mobile Application
+Android Malware Detection using Hybrid Features Analysis
+Gmail Monitoring Tool using Google Apps Script
+A Collaborative Framework for Android Malware Identification using Dynamic Analysis.
+A novel Dynamic Android Malware detection through various Machine Learning Classifiers
+Chatbot for E-Commerce Customer Service
+Fractional Property Ownership using Blockchain Algorithm
+Android-based Cybersafe for Kids
+Unimas Customer Service System
+Pepper Traceability using Blockchain Technology
+Part-Time From Android
+Android-Based Learning Application for Sarawak Malay Language
+e-Learning system using Learning Buffet Approach for Learning Programming Course
+Smart vending machine using IoT
+Automated Fertigation System Using Arduino for Cucumis melo L. (Inodorus Group) 'Honey Dew'
+i-Perhutanan Field data management system
+Hygenic Smart Toilet In Public Space
+KIMS - Kiosk Integrated Management System
+iBOT: ACADEMIC PLANNER CHATBOT ON FACEBOOK MESSENGER PLATFORM

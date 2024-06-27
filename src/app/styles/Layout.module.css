@@ -1,0 +1,28 @@
+.layoutContainer {
+    display: flex;
+    flex-direction: row;
+    min-height: auto;
+  }
+  
+  .sideNav {
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .mainContent {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .layoutContainer {
+      flex-direction: column;
+    }
+  
+  
+    .mainContent {
+      padding: 10px;
+    }
+  }
+  

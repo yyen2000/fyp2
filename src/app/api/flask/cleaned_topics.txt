@@ -1,0 +1,1343 @@
+Tuition Center Management System
+FOOD INGREDIENTS ORDERING MANAGEMENT SYSTEM
+An Android Based Mobile Application For Tutoring Form Malaysian National Curriculum Students
+RAFFLESIA ESTORE SYSTEM
+UNIMAS Arduino based automated parking lot system with RFID
+GoGo Tour Mobile Game Application
+Gas Detection System Using Arduino And Internet Of Things IoT
+UNIMAS ONLINE VOTING SYSTEM FOR MOBILE APPS
+EHealthcare Online consultation and medical assistance mobile app
+Android Based Local HandyMan Finder
+Online Collaborative Exam Paper Vetting System Not register in the UNIMAS System
+Syllable Mapping based Malay TexttoSpeech Application
+Online Vehicle Management System for Bintulu Development Authority
+PALAPES UDARA INFORMATION MANAGEMENT SYSTEM
+Hand Craft product Webbased system
+Attendance Library System of SMK Palong Timur
+The Enhancement of easyMorpheus Based Learning
+Easy Connect Wifi Application
+AndroidBased WiFi Analyser
+UNIMAS World Taekwondo Tournament Scoring Application
+PALAPES UDARA UNIMAS ALLOWANCE RECORD SYSTEM
+Kuching Tourist Transport Guide Webbased System
+Augmented Reality for Bridal Dais
+Android mobile application for kids Learn and Draw
+SaLT Website Repository
+Text to speech TTS synthesis for Malay language
+FCSIT HUB Application Not register in the UNIMAS System
+Student Room For Rent Finder
+PIBG SYSTEM for Sekolah Kebangsaan Semerah Padi Petra Jaya
+DMATA Advertising Online Ordering System
+Farming Assistant Application
+Great legacy online tuition class registration system
+Smart Home for disabled using raspberry pi
+iSkinCrave Mobile Application for Skincare Enthusiast
+Assisted Navigation and Object Detection for Blind Person Using Deep Learning
+Automated Detection of Tile Edge Chipping Using Deep Learning
+Online Pets Adoption System OPAS
+Offline Knowledge Sharing and Collection Portal using Low Cost Single Board Computer
+Integrated Online Venue Management System for MAMPU
+Automated Vehicle Census System using Deep Learning
+Automated Plant Disease Detection using Deep Learning on Mobile Platform
+UNIMAS Clinic Appointment System
+Android Blood Donation System
+Dental Hospital Information System Using ASPNET
+The Adventures of Siu and Seragunting An Iban Folklorebased Game using Unity
+An Android Mobile Application to keep tract with patients health
+MyVent A Mobile Application System using QR Code for Allamanda College
+HOTS Hotel Occupancy Tracker in Sabah
+WEB BASED SYSTEM FOR PROPOSING THICKNESS LAYER OF PAVEMENT
+SaraPonics Automated Hydroponics System with the use of Internet of Things IoT
+UniCounselU Mobile Apps
+Comments Summarization in Social Media using Natural Language Processing
+Hotel Room Entry Using Fingerprint
+Android Group Expense Tracker Application
+Smart Indoor Hydroponic Monitoring System based on IoT
+Cloud Based Library for FCSIT using Amazon Cloud Service
+Ultrasonic Blind Walking Stick
+FarmAid Mobile application for agriculture management
+SmallScale Primary School Timetabling Problem
+Occlusion Handling Through Multi Agent System
+Integrated Customer Information System
+Weighted Vehicle Routing Problem
+Borehole interpolation by using Javascript
+Kuching city Travel Assistant System
+Learning Mandarin using Augmented Reality AR
+Integrated Tourism Portal for Rejang
+Final Year Project FYP Management System for UNIMAS
+ONLINE PERSONAL COUNSELLING SYSTEM
+RFID based Smart Card System for School Meal Purchase
+FCSIT Interaction Portal
+FCSITAlumni Management System
+Road crossing model for motorcyclists for road that do not have traffic lights
+Animal Trap Control For Agriculture
+prismAR Development of Augmented Reality Mathematics Prism Card Game for Standard Students
+Help Desk Database Management System
+BiodivARsity Development of Augmented Reality Card Game in Learning Biodiversity among Primary School St
+UNIMAS Buddy Meal Planner Pavilion PreMeal Planner mobile application for UNIMAS Students
+A MOBILE APPLICATION FOR RESERVATION OF SIIC FACILITIES
+Dusun Language Vocabulary Learning using Augmented Reality
+Beauty Salon Mobile Application
+Online Clothing Store
+Android Based Tourism Safety System
+Rabies Disease Data Provider Mobile Application
+Lets Solat Mobile Application using Augmented Reality Technology
+Parking Management System Based on Automatic License Plate Recognition
+Cloud Based Sales Invoicing Recording System
+Ebooks Library Loan System
+Researcher Field Work Notebook
+IoT Based Smart Child Monitoring and Tracking System
+EzLife Advertisement Management Application
+Smart Liquid Fertilizer Management System
+UNIMAS Rehab Care
+Employee Attendance System for Payroll Crosschecking System
+FCSIT BookandMeet
+SubAgent New SIM Registration System
+CalEx A CalorieExercise App
+Happy Health Manager Manage Your Personal Health Record PHR By Using Mobile App
+Android application for shops search
+Visa validation system
+Online Booking System for Pusat Islam Universiti Sains Malaysia
+Face Recognition for Security Surveillance
+IoT based Water Quality Buoy
+A Webbased Industrial Training Database Management System
+Modelling FYP student selection supervisor perspective
+Modelling FYP topic selection Student Perspective
+Digital Library for Islamic Newspaper Article
+Rain Intensity Detection System
+Car Model Recognition using Convolution Neural Network
+Modelling of HN Influenza in Sarawak
+Smart Socket A Energy Consumption Monitoring Adapter
+Smart Light for Motorcycle Helmet
+Modelling the Yield of Pineapples
+Restoran Kolam Pancing Batu reservation system
+Water Column Early Warning System
+Project Application Monitoring System ProCams for Miri Resident Office
+Intergrated Tourism Booking System
+Mobile Platform for Local Home Services
+Developing a Webbased Appointment Management System for HSE Department
+Integrating Bipartite Network Module for Disease Model
+VCare Development of an ECommerce Website for Pharmacy Shop System
+MATHEMATHICAL MODELLING OF HFMD
+Mathematical Modelling for formation glucoseinsulin of diabetes
+Webbased Road Severity Report System
+Borneo Molluscs Online Database Management System
+Android Mobile Application for Food Recipe
+eCafe Cafe and Leave Management System for T Three Coffee Sibu
+Identifying Language Using Distinct Word List
+Mathematical modelling of Leukemia disease on development of white blood cell
+Final Examination Cover Paper Generator
+Exploratory Data Analysis in R of Global Epidermic Data
+Designing Interactive Dictionary for Preschool Children
+Mathematics Game Mobile Applications for Primary school Year students
+Emergency Notification Application for Mobile Devices
+DeTract Debt Tracker and Analysis Mobile Application
+Development of Mobile Learning Basic Mandarin language application in UNIMAS using Android
+IOT based car parking management system using car plate recognition
+UNIMAS Students Assistant System
+Proximity Marketing in airport using beacon technology
+STUDENT EXAMINATION ATTENDANCE FOR FCSIT
+AnaIslam Doa Learning Mobile Application for Preschool Kids
+accounting system for mosque management
+Nazliza Kek Lapis Sarawak Ordering System
+Web Development of Mosque Committee election system
+Elearning MyBody Parts for kids based on Mobile Application
+Android Malware Detection using Hybrid Features Analysis
+Gmail Monitoring Tool using Google Apps Script
+A Collaborative Framework for Android Malware Identification using Dynamic Analysis
+A novel Dynamic Android Malware detection through various Machine Learning Classifiers
+Chatbot for ECommerce Customer Service
+Fractional Property Ownership using Blockchain Algorithm
+Androidbased Cybersafe for Kids
+Unimas Customer Service System
+Pepper Traceability using Blockchain Technology
+PartTime From Android
+AndroidBased Learning Application for Sarawak Malay Language
+eLearning system using Learning Buffet Approach for Learning Programming Course
+Smart vending machine using IoT
+Automated Fertigation System Using Arduino for Cucumis melo L Inodorus Group Honey Dew
+iPerhutanan Field data management system
+Hygenic Smart Toilet In Public Space
+KIMS Kiosk Integrated Management System
+iBOT ACADEMIC PLANNER CHATBOT ON FACEBOOK MESSENGER PLATFORM
+Village Profiling Management System
+Automated Seat Allocation SystemASAS
+Booking and Scheduling Appointment for StudentLecturer with WebBased and Mobile System
+Calculator Fidyah Application
+Land and Survey Department Sarikei Website with Employee Time and Attendance System
+Patient Bed Management System PBMS
+KERJA DOT COM ONLINE JOB PORTAL
+Multi agents in distributed tracking system
+GPS based Unimas Bus Tracking
+Web Application for Children to Learn Jawi
+Development of a Decision Support System for Student Admission Using Simulated Data
+Unimas Carpool mobile application
+House Security Camera
+VoiceOut Mobile Application
+A Recipe Finder Android Application
+Mobilebased Stress Relief Assistant Application
+Multiple Rental Service Application
+Mobile POS for Food Court
+Mobile Application for Introducing Songket and Keringkam Sarawak using Augment Reality
+EGanti Sekolah Substitute Teacher Management System
+AntiRabies Vaccination System
+Android Apps for Learning French
+Queue Number Mobile Application for Tawau Immigration Office using Android Studio
+Chemistry Modelling and Simulation System for Learning
+Eco Data Collection System EcoDCS for instantaneous Data Entry
+BookHub Communitybased book trading mobile application
+Student Record Management System for Kasturi College
+UNIMAS Bus Routing and Tracking Application
+DOTS Directly Observed Therapy Short course Attendance Management System forPusat Rawatan TB in Klinik
+Mortuary Information System MoIS Version
+Smart HomeAirCondition LocationBased Air Condition Switch
+KIDS MATHS MOBILE APPLICATION FOR PRESCHOOL LEARNING SYSTEM
+Video Management Library for Android TV Box
+Informative WebBased System for Gendang Melayu Sarawak Bermukun
+STAR OPTICS A WEBBASES POINT OF SALES POS SYSTEM FOR STANDARD OPTICAL CENTRE MUK
+A security framework for cashless system
+ATUNIMAS Webbased system for Animal Trust in Unimas through crowdsourcing
+Pill Dispenser using IoT
+Biq A Social Mobile Platform for Cycling Community
+Portable Heat Sensor
+Mobile Application for Teaching Science Respiratory System at Primary School using Augmented Reality
+Smart Aquarium Monitoring and Control System Based on IoTs
+Residency System for Kolej Kenanga
+Selfmanage Traffic Light System
+Halal Kuching Food Locator
+An Arduinobased Project for Physics STEM Learning Mini Projector for Rural Schools
+WEBBASED EDUCATIONAL SYSTEM ON ROAD GEOMETRIC DESIGN
+Computer Vision based Laboratory Visitors Count
+Quotation Mobile Application for Compuway Company
+Application for Learning Bahasa Iban IBAN Im Beginner and Novice
+Mobile Application for Malls Park Booking System
+Sabah Travel Guide mobile application using Android Studio
+Gym Management System
+Mobile Application for Used Items Marketplace in UNIMAS
+Waste Recycling An Educational Mobile Game
+URentMyCar A Car Rental Platform Mobile Application for UNIMAS Student
+Web System for UNIMAS Work Procedure Manual and Desk File
+Teaching Workload of FCSIT Lecturers
+Quran Translation of Juz Amma in Bidayuh Sadong LanguageUsing Android Application
+HOPE A Mobile Application for Stroke Patients
+ANDROIDBASED MOBILE APPLICATION COUNSELLING BOOKING APPOINTMENT
+Smart Home Security System using IoT
+Industrial Training Application System
+MYPARKMOBILE VEHICLE TRACKING IN MULTILEVEL PARK
+Project Monitoring and Control System
+A Supporting Tool to Enhance the Student Learning in Scratch Programming
+FCSIT Chat box Apps
+Musicco A Social Media Platform for Musicians
+Mathematical Modelling for Cake Cutting Algorithm
+Healthcare Administration System
+Paying System Using QR Code for Student Pavilion
+Smart Road Lighting Alert and Energy Saving System
+Pocket Office Office Automation System Using Android Application
+Mobile Application for Teaching ScienceAnimal Breathing System at Primary School using Augm
+Plant Monitoring System with Email Alert using Raspberry Pi and Arduino
+Cloud Server for School Data Management using Raspberry Pi
+Dyslexia Testing Online System for Preschool Children in Sarawak
+Diabetes Monitoring and Support Application
+Sign Language Gesture Recognition System using Deep Learning
+A Mobile Application for English Vocabulary learning among children
+JomJalan Planner Mobile Application for Malaysia Tourism Industry
+SARAWAK HERITAGE EDUCATION APPLICATION WITH AUGMENTED REALITY
+Allamanda College Merit System
+Androidbased Mobile Application Roadside Assistance App RoadGo
+MYSCHOOL MOBILE APPLICATON FOR PRIMARY SCHOOL
+MeritDemerit Mobile App for the Secondary school system
+Eauction bidding and selling system
+Mobile Attendance Management App Using Global Positioning System GPS for Construction Based Com
+Energy Consumption Tracking Mobile Application for Home Automation using Raspberry Pi
+Complaint and Request Management for Cempaka College
+Mobile Application for Teaching Constellation at Primary Schools student using Augmented Reality
+Study and designing of Digital Dimension Space visualizer for centralize drone performance
+Warehouse sharing system to provide storage service in Samarahan Area
+Multiple Drones Path Optimization Algorithm for D space Performance Using Centralized Visualization Pla
+Interactivity in Virtual RealityVR Environment using Voice in case study of D Chess Board
+Smart Home for SpecialNeeds Person
+Smart Remote Air Conditioner Application
+Secure Android Voting System with Fingerprint verification
+Micro Learning Approach for Better Learning Programming Course
+Stay fit Calorie Intake App
+Learning Data Structure Course using BiteSized Learning Approach
+eBuli A Mobile Application to Report Bully
+DLib Data Analytic Management System for Kota Samarahan Library System
+EasyResume
+Object Tracking System for Elderly using IoT
+RFID Plates for Restaurant
+Instantaneous Mobile Parking Summons Apps
+Virtual Home Dashboard Using Raspberry Pi
+Online Blood Bank Management System
+Mathematical Modelling of Leptospirosis Transmission
+An AndroidBased UNIMAS Clinic Appointment Mobile Application for UNIMAS Students
+An AndroidBased PeerToPeer Rental Application
+Mobile Application for Baby Products
+Work Order Assigner and Annual Leave Manager mobile application
+idTermites Webbased Identification System for Coptotermes and Nasutitermes Genus of Termites
+Indoor Navigation System using Beacons Technology
+Smart Farming Controlling the Sprinkler System by Using Internet of Things IoT
+Smart Tree Tagging for National Park in Sarawak using Mobile Application
+Mathematical Modelling of Cancer Radiovirotherapy
+Entrepreneur Monitoring Application Using Android
+Smart Farming Online Monitoring on crops temperature
+eBencana Jabatan Kerja Raya JKR Management System
+Laboratory Information Management System
+Mathematical Modelling of early Artherosclerosis
+Womens Clinic Information Management System
+Kids Nursery Management System
+Modelling epidemicrelated timeseries data and web search behaviour
+Modelling the dynamics and control efforts of human rabies epidemic
+Alumni Data Analytic Management System
+Mobile Application for Medical Appointment
+Portable Fire Prevention and Alert System
+eGerak Staf Politeknik Sandakan Sabah Mobile Application
+D Flash Memory Game for Kindergarten Student
+Donation Volunteering WebSystem
+Mobile TopUp System
+Know Myself A psychometric test system
+Androidbased Heart Monitoring Mobile Application with Internet of Things IoT Implementation
+Android Mobile Application for Food Review
+Smart Priority List
+Student Record Management System for Faculty of Medicine and Health Science Unimas
+Allamanda College Complaint System
+ARced Development of Augmented Reality Biology Card Game Cell Division for Form students
+nocARd Development of Augmented Reality Card Game for Standard Student Number and Operation
+BioAR Cell Development of Augmented Reality Card Game for Cell Srtucture and Cell Organisation
+Food ChainAR Development of Augmented Reality Card Game for Food Chain in Science Education at Pr
+ChemCARdz Development of Chemistry Augmented Reality AR Periodic Table Card Game
+Room Booking System for PPD and PKG Mukah
+Progressive webbased Sports Equipment Platform
+WeServe Online Service Marketplace mobile application for UNIMAS
+iLeap Interactive Learning for Autism Spectrum Disorder ASD Children using Leap Motion Controller
+Borneo Handicrafts ECommerce WebBased System
+Mobile Application Complaint System For Yayasan Sabah
+Sakura Mobile Application on Demand SMApp
+EAppointment FCSIT via Android Mobile Application
+Needy Mobile App using Community Based Feedback
+iPeriodic Interactive Periodic Table using Augmented Reality
+Defining The Hotspot of Haze Through Mathematical Modeling
+Synthetizing facial expressions using Active Shape Model ASM
+UNIMAS Engage Information System
+Smart Home Doorbell using Raspberry Pi
+Android Application for Sarawak Hockey Field Booking and Advertising System
+Streetlight controller System Using Arduino
+QR Car Park Payment System Application
+Enhancing the learning experience of undergraduate statistics using R Shiny
+A datadriven analysis on the global vaccination coverage
+WebBased UNIMAS Maker Lab Membership System
+Humour Detection on Internet Meme
+Village Profiling System for Kampung Sebandi Ulu
+Unit Kewangan Pelajar UKP eRepeatRepair
+IoT Based Smart Greenhouse Automation Using Arduino
+Monitoring of Ammonia temperature potential hydrogen pH level for Barramundi Lates calcarifer nurs
+Augmented Reality Alphabet Learning ARAL for kids in Android
+GenusSys Retrieval System for Coptotermes Nasutitermes Termites
+CASESBYNZ EMBROIDERY WORKSHOP MANAGEMENT SYSTEM
+Building Language Resource for Sarawak Malay Dialect using Chatbot
+Statistical Analysis and Visualization on Rabies outbreak in Sarawak
+Islamic Loan Calculator for Android Smartphone
+Design and Implementation of a Well Integrity Management System WIMSA Case Study of Oil Gas Pr
+Escapade Android mobile application for rural tourism in Sarawak
+UNIMAS Job Recruitment System
+Fitness and Health Mobile Android Application for UNIMAS Student
+WEB BASED JKKK MANAGEMENT SYSTEM FOR LONGHOUSE AT PAKAN DISTRICT
+A WebBased System for Managing Language Data from Kalaka App
+Membership registration and management system for Sarakup Indu Dayak Sarawak SIDS
+Smart Car Alarm System for Child Detection in Parked Vehicles SCARS
+SUKSIS Registration Application System
+Portable water quality detector using Arduino
+Mobilebased Tracker for FCSIT Alumni
+ACRMS Azizi Enterprise Car Rental Management System
+ICT Equipment Reservation System for Hospital Duchess Of Kent Sandakan
+Aram belajar jaku Iban A mobile application for learning Iban Language
+PERTEKMA Activity Monitoring
+Speaker Identification System for Gender Recognition
+eTicket Express Boat mobile application
+ezU Android Based ECommerce Application
+A Webbased system for conservation area pictures and information
+Mobile App Planner For Senior Citizens
+ARChemBond Development of Augmented Reality Card Game for Learning Chemical Bond
+Drainage Complaint System by using Android Apps for the Department of Irrigation and Drainage DID Sar
+eDiscipline School System
+UNIMAS Students Activity Hub Using Android Application
+Asma Cake House Ordering System
+Prediction of HFMD Disease Outbreaks from Twitter
+Smart Sport Complex with Automatic Lighting System
+My Crime View Web Application Dashboard for Malaysia Crime Statistics
+YAYASAN DAKWAH ISLAMIAH MALAYSIA YADIM SABAH INFORMATION SYSTEM
+IoT based DoorWindow Opening and Closure Alarm
+Data Visualization for Understanding World Population
+Modelling and Animating a Realistic Human Heart
+ICT Asset Management System for Kedah State Health Department
+Identify customer satisfaction through hotel online review
+INVENTORY SYSTEM FOR HOSPITAL LABUAN
+Mobile Application for Weaving Pattern Arrangement and Length Calculation
+A WebBased Photographic Archive for Sarakup Indu Dayak Sarawak SIDS
+Smart networked lamps
+WORKEAT Work Food Hunting
+WebBased System for Laundry Service to Pickup and Delivery
+Mobile Application for Wedding Planning Checklist in Muslim Culture
+Mobile application for smart car parking lot system in UNIMAS
+Private Centralised Cloud Computing Server for Professionals
+Resource Management for Sarawak State Library
+A MobileApplication in Addressing Mental Health Issues
+Smart Hotel Housekeeping Using IoT
+iBinyuk Sales and Inventory Management System and Androidbased application for Kampung Binyuk nat
+Animatedbased Approach for BODMAS Mathematic Teaching
+UNIMAS Career Portal
+IOT based Air Pollution Monitoring System using Arduino
+Analysing the Usage of Gamification in Language Learning Applications
+Bug Junior Mobile Game
+UNIMAS Counselling Session Booking System
+Twitter How truth is the rumor
+Webbased School Timetable Management System
+Lost and Gains Mobile Application
+Student Attendance Monitoring System
+Restaurant Reservation System
+MATHEMATICAL MODELLING AND NUMERICAL SIMULATION OF OIL SPILL CASE IN MARINE
+Faculty Management SystemFCSIT
+Lets Battle COVID An android mobile game to raise awareness of the global pandemi
+Na Na Bakery Cafe Sales System
+ND MART
+Bus Online Booking Ticket System
+Bangladesh Tourist Information System
+Nocal Marketplace A Website Specialized for Small and Local Businesses
+QR CODE ATTENDANCE SYSTEM FOR PRESCHOOLERS
+Sarawak Ethnicity Classification Using Deep Learning
+Text Recognition for Grocery with TensorFlow in Mobile Device for Visual Impairment
+Lecturer Career System LECAS
+Voice Recognition Calculator Via Raspberry Pi
+TRIZ Knowledge Collection App
+Android Itinerary Planner
+V App for Vision Impaired using AI Service
+Implementation of an Integrated Library Management System at the UNIMAS ILMS
+UNIMAS Fault Reporting Application UNIMASFRA
+A mosque webbased system for Bitul Mamur Jame Masjid in Bangladesh
+A Parking Management System Using Automatic Number Plate Recognition ANPR
+eTamu for Selangaus Rural Products
+Bibliometric Visualization of COVID articles in Computer Science area
+Bibliometric Visualization of COVID articles in the area of Information Systems
+Complaint Management System for UNIMAS Residential College
+Internet of Things IoT Patience Health Monitoring System
+Borrowing Multimedia Equipment Mobile Application using Android studio
+SBS SMART BLIND STICK AN AID FOR VISUALLY IMPAIRED TO WALK INDEPEN
+Computerized Budgeting System
+UNIMAS graduates Career Seeker
+AntiTheft Device
+Goat sales and inventory management system
+Campus Crime Reporting System CCRS
+JomJalanKedah A Mobile Application for Trip Planner
+Creamee Online Cake Ordering Application
+Bus QR Bus Pass Check using QR code mobile application
+Ubah Kata A Malay spelling mobile game for lower primary school students
+UNIMAS College Mobile Application UNIMASCo
+Teaching Material Management system TeamS
+Portable IoT to help Fire Alarm Monitoring with Android application
+Android Mobile Application for Food Reservation Service
+EShopping Mobile Web for Saree and Saree Silhouette
+Parcel Management and Tracking System for University
+eBantuan Platform for People Around Lahad Datu
+Waste Management System in Kampung Datu
+Barcode Scanner Stock Management Mobile Application for Grocery Store in Countrysid
+Cow and Its Milk Management System
+Caddie Management System
+UNIMAS CLINIC HEALTH MOBILE APPLICATION
+UNIMAS STUDENTS AUTOMATED UNIVERSAL CUMULATIVE GRADE POINT AVER
+Unimas Rafflesia Residential College Entrance With Advanced Encryption StandardAE
+ELearning Management System for Sekolah Menengah Kebangsaan Anjung Batu
+UNIMAS Complaint Management System
+Class attendance system with face recognition
+Developing an App for People with Anxiety to provide Selfhelp
+Price Tracking for Oil Palm
+Stingless Beehive Monitoring System
+IT Asset Management Systems
+Quick Service Kiosk Digital Menu Ordering System
+IoT based Monitoring and Controlling System for Oyster Mushroom
+VetScale IoT Based Weighing Scale to Determine Dosage of Drug According to Weigh
+Internet of Things IoT based Care Collar for Cat
+Smart Seed Germination System Based on Internet of Things IOT Technology
+Grow LED Light for Hydroponic Plants and Indoor Farming
+IoT based Smart Hydroponic Farming System
+Creating Recycling Awareness Through Interactive Game
+Consolidated SI Information for Sarawak Soil Database
+Sales and Inventory System For Uncle Awang Carpenter
+D Geological Borehole Model Using Python
+YUMYUM Restaurant Recommender System
+Event Management Mobile Application for Samarahan Community
+Smart Reply in Textbook ECommerce Mobile Application
+Developing Fire Evacuation Simulation through MultiAgent System
+A WebBased Digital Marketplace for Hawkers
+Smart Basketball Club Management Mobile Application
+Water Leakage Reporting and Monitoring System
+COVID Indoor Person Counting System
+AndroidBased Iban Language Crosswords Puzzle for NonNative Iban Speakers
+Digital Inventory Management using QR
+Freshy Grocer Application
+Smart Air Pollution system
+Face Recognition for Online Class Attendance System
+Bidayuh BukarSadung Language Mobile Edutainment Application
+Task Monitoring Application
+MyBusiness Mobile Application
+Food Ordering App for Siniawan Night Food Street
+Ferry schedule and waiting time system
+Car Rental Business Owner
+Educational Website Rugby is Easy
+Solar Powered Online CCTV System for Remote Monitoring
+Notes Sharing Apps
+PropertyCondominium Management System Associated with Croesus One Solution SD
+College Information and Management System
+Perpustakaan Tun Abdul Rahman Yakub PeTARY UNIMAS Mobile Application Web
+Industrial Training System for FCSIT
+WeLink Social Networking Site WSNS
+INDA Store Online Shop
+Chat application for Project Management
+Appointment Booking System for UniK using LARAVEL
+Pet Care Management System
+EzyXpense An Expenses Monitoring Mobile Application for University Students
+Online Encyclopedia for Sarawak Endemic Plants
+A Webbased Platform to Crowdsource NonDigital Games Played in Malaysia
+Stray and Abused Animals Rescue and Adoption Website
+An Androidbased Mobile Application for Booking Recycle Service Go Recycle
+TCGU An Ecommerce Website for the Trading Card Game community
+INITIAL ASSESSMENT FOR PHYSIOTHERAPIST MOBILE APPS
+UNIMAS PSCoM A Paperless System for Sakuras College Management
+EPlatform Webbased System For Byjs
+Daily Planner Application to Assist Individual with Busy Schedule
+School Van Management System for Elayies Transport
+YSzone Mobile Application for Staff Attendance in IT Division of Sabah Foundation Gro
+Smart Crowd Control For Shopping Premises
+Soil Moisture Monitoring for peat fire prevention
+Health and Wellness Portal for Malaysian People
+Mobile Apps Sidejob For Student and LecturerStaff of UNIMAS
+eClinic for Dental
+Centralized Local Event Management System
+Individuals Temperature Screening and Record System for Arduino Thermal Camera
+Attendance System Using Face Recognition and Temperature Detection
+Investigation of New Routing Protocols in ONE Opportunistic Network Environment Sim
+SOCIAL INTERNET OF THINGS TO PREVENT CRIME USING CAR PLATE NUMBER
+Face Mask Detection and Temperature Reading
+Program Self Assessment Review Web based system
+Malay Kuih Classification using Deep Learning
+Graduate Salaries using Deep Learning
+Title Pain Detection Through Facial Analyzation
+IT Skills Competency Evaluation WebBased System
+Face Similarity between Family Members
+Rock Classification using Deep Learning
+Facial Expression Classification Using Convolutional Neural Network CNN
+Reminder App for Family
+Automatic Garden Irrigation System
+Online Accommodations reservation OAR webapp for Unimas Students
+Epill Medication and Appointment Reminder
+Arduino based parental control device
+Jasmine Towers Condo management System
+QR ACTIVITY ATTENDANCE SYSTEM FOR SARAWAK GENERAL HOSPITAL
+Efficient Optimization of Computation Offloading in InternetofThings IoT Devices
+An Investigation of Phishing Susceptibility and Demographic Analysis
+IOT FLOOD ALERTING SYSTEM
+Learning Basic of Sarawak Local Language Iban Language with Web Based Sha Bot S
+Bantuan Khas Pesakit Buah Pinggang Application System
+AUGMENTED REALITY APPLICATION FOR ANIMAL LEARNING
+Smart Power Strip Socket
+Violin Maestro Challenger Application VMCA
+Prototype of Chess Pieces Label and Board Position Recognition to Assist Visually Imp
+Pedestrian detection using Histogram of Oriented Gradient
+Noise Removal Inside RegionofInterest of Images of Nesting Sea Turtles
+Detection of Distracted Students using Machine Learning
+Image Rotation Correction Using Machine Learning
+Androidbased Mood Advisor Application using Deep Learning through combined datase
+Automatic Detection and Measurement in Antibiotics Susceptibility Test AST
+A Shortest Path for Indoor Navigation on Augmented Reality
+Evaluation of a Hybrid Agile Approach and Information System IS Success Model in G
+Plant Disease Detection using Colour Thresholding Method
+Sports Jersey Customization Website using Responsive Web Design and UIUX Principl
+Delivery Service Digital Framework A Case Study of Mira Cake House
+Predicting Course Interest based on Student Personalities
+AndroidBased Disease Hotspot Detector
+Mosquitoborne disease generic model validation on Chikungunya data
+Implementation of Job Application Staff Management System JASMS at Yawata Su
+Students Point Rating System
+Mobile apps to identify pests
+Issue Tracking Progressive Web Application for Rural Communities to Capture Infrastruc
+CountingStitches A Mobile Application for Row Counting in Craft Projects
+Hotel Food Ordering System
+Tasky Home Services Platform
+Webbased Service Offering System
+Car Park Reservation System
+Personal Recipe Finder
+Machine Learning based System Dashboard
+Badminton Coaching Assistance System Using Deep Learning
+Realtime screen monitoring for CCTV Stream using Deep Learning
+Melofy Now Everyone Can Make A Melody
+Traffic Light Colour Recognition System for Colour Blind People
+Student Emotion Detection System SEEDs
+World of Cactus
+Veterinary clinic reservation system
+Barcode Attendance Exam Hall System
+UNIMAS Online Shopping
+Samarahan Local Food Finder App
+Tenants Management System for Hostels
+Gerai Kita Handicraft Art Market Progressive Web Application using Ionic and Angular
+Mount Santubong Mobile Hiking Application
+iCollege Dahlia Booking Application
+Sales and Promotional Marketing EBrochure Mall System
+MyUni Planner System
+SIR Room Seat Booking Android Application System
+Improve Accessibility System in Medical Clinics
+Sakura College Event Management System
+IoT Touchless Elevator Sensor Using Arduino
+face recognition and temperature checking student attendance system
+Products Data Visualiser in eCommerce Marketplace
+Identity Verification for Law Enforcement Bodies using Information Hiding Technique
+Mark Recognition System for Examination Cover Page
+Vocabulary Learning for Years Old Children using AR Flashcard
+Analysis of ContentBased Song Recommendation with TFIDF and Naive Bayes
+An integrated food ordering system for student pavilion
+Employee Management system for Preloved Garment Retailer
+Social Platform for Dropship Business
+Learning Sign language website
+Web Integrated POS System for Preloved Clothing Retailer
+Cognitive Flowbased Plagiarism Detection
+IoT Smart Mirror Using Raspberry Pi
+Online Malay Lexical Repository System
+Personal Career Development Recommendation System
+myPembeli Personal shopper mobile application system Automated approach identifyin
+Fire incident management system
+mobileOrdering Hawker Centre Food Ordering Mobile Application
+Smart Letter Movement Tracking Management System
+iFutsalUNIMAS Players Profile Selection
+Clinical Health Management
+High School Library Management System
+Amusement Park System
+Smart Garden
+Simulation Of Water Flow in Tidal Wave Influenced By Gravity Impact
+Rainfall Forecasting Using Fourier Series
+Level Set Model For Image Processing In Tumour Cell
+My Piggy Bank Money Management App
+UNIMAS College Store Management System CERMAS
+Vehicle Tracking System
+Patient Appointment System for Clinic
+eMarket for local farmers
+Doorstep Carwash Detailing Mobile App
+Online Part Time Job Application System
+Moodleinabox Offline LMS for Rural Communities
+File Management System at Pejabat Tanah Kluang using WebBased Development
+UNIMAS Students and Visitors Pass using Internet of Things
+TRIZbased Approach for UNIMAS College Activity Management System
+HiF Hi Friend Meet Senior Friend Online
+RFID Tag Attendance System For Kindergarten Using Mobile Application
+Tourist place recommendation system
+REALTIME MALAYSIAN SIGN LANGUAGE RECOGNITION USING IMAGE PROCES
+Crisp News A OneStop News Application to Stay on Top of Internet Effortlessly
+Mixedeffect modelling in epidemiology on Rstats environment
+Curve fitting in modelling Covid
+User Interface design for infectious diseases data
+Sentiment anaysis of free messsaging app
+Fitting Stages of Evolution of COVID Outbreak Data Curve
+A mathematical modelling of the outbreak size of novel coronavirus COVID
+AiVABot WebBased Information Provider Chatbot for Undergraduate Student in UNIM
+Internet of Things IoT Based Fire Alerting System
+Personal Finance and Budgeting App
+Webbased Detainees Location Checkins System
+Ecommerce For Local Mukah Community
+PERTEKMA Exco Application System
+Pertekma Activity Monitoring System
+KamekTravel Application
+D Farming Adventure Role Playing Game RPG for Single Player
+Food Ordering Application using QR Code for Small or New Restaurant
+Club Membership management with QR activities attendance management
+Custom Build PC Store
+Smart Dustbin Sensor by Using Arduino
+Automatic Door Handler Sanitizer
+Kitchens Fire detection system based on IoT
+Stationary Management System
+Jom Kecek Kelate Mobile Application
+UniSMart An Android Marketplace Application for Selling or Donating SecondHand Item
+Specialist Appointment Booking System in Public Healthcare using Queue Simulation
+Load service booking and rental system
+Bakery Online Cake Ordering System
+SMK Serian Library System
+Event Catering and Reservation System ECRS
+Digital Learning Application for Malaysian Sign Language MSL User In The Early Child
+A Chatbot Application for FCSIT Undergraduate Students
+Using Sentiment Analysis to Investigate Malaysian Public Opinions in Social Media abou
+QR attendance and temperature recording system for Sekolah Kebangsaan
+Inventory Management System for Makerspace UNIMAS
+IoT temperature and humidity check and monitoring for swallow bird farm
+Online Bookstore Template Management System
+Lost and Found Web Based for University Malaysia Sarawak students
+FeedMe Web Based Food Ordering System
+Carpooling Application For Student
+Offline plugandplay English Language Elearning server
+Smart Crop Farming with Arduino
+NakTanya A Mobile Based Service System
+eAttendance for secondary school
+Stock Market Prediction with Multiple Linear Regression
+Comparison between Moving Average Convergence Divergence MACD and Bollinger
+Combating Acrophobia Using Virtual Reality
+Flood loss function system
+ApeX Chatbot for Upper Secondary Level Mathematics using Artificial Intelligence
+Streetlight Fault Detection System
+D Printer Filament Runout Monitoring and Notification System
+Smart Security System for Swiftlet Bird House Based on IoT
+Augmented Reality Local Point of Interest Bung Jagoi
+Improving the existing bus tracking system
+Customer Counting System in assisting allowed number of customer in store during Cov
+OneStop Crisis Centre for Domestic Violence
+Customer Relationship Management System
+MY Blood Donor Android Application for Blood Donor
+A Comparative Study For Heart Disease Prediction Using Machine Learning
+Genomic Data Mining for Hand Foot Mouth Disease HFMD
+eDictionary Online Web for Bajau Language Sama
+Digitization of Sarawak Historical Document Using Logical Layout Analysis
+Building Iban Dialogue Corpus Using Chatbots
+Machine Learning on Sign Language
+A Parking Management System Using Automatic Number Plate Recognition ANPR
+Mental Health Twitter Analysis during COVID in Malaysia using Machine Learning Alg
+Identifying the Relation between Miriek and Kenyah Badeng Language using Morphologi
+Grest Graphical Restaurant Reservation System in Mobile Application
+Customizable Illustration Gallery on Progressive Web Application
+HiWithSign Basic Sign Language translator for deaf children
+Rapportooze A PersonalPrivate Social Interactions and Relationships Management W
+Project Application Management System for Strategic Planning and Development Unit L
+Augmented Reality mobile app as gamification tool for education elderly people about CO
+Educating autistic children about COVID using Augmented Reality AR gamification
+Visualization of COVID cases in Sarawak
+AR Mobile Application for Sarawak Islamic Heritage Museum
+Gamified mobile AR to teach primary school students in Malaysia about COVID
+COVID Dashboard for Sarawak
+Augmented Reality Mobile Application for Unimas Galleria
+FYP Content Management System CMS
+MyTravel Blockchainbased immunisation record verification system
+Vehicle Parts ECommerce Platform
+Deep learning in neural network to recognize number
+Platform for Company Administration CorMin
+Unimas Mobile Web Push Notification With Chat Feature System
+Inventory Management System for Smartphone Retail Store
+FOMS Food Ordering Management System
+Hospital Online Queuing System
+Mathematical Modeling of the Number of Visitors to A New Public Place
+Inventory Management Analysis System for Grocery Store
+XPress Order A Tablet Based Application To Automate Food Stall Ordering System
+MyhomeCharity
+Mobile Nursing Competencies Evaluation Application via QR Code
+Parcel and Postal Delivery Service App for UNIMAS student
+Enhancement of INCERS Integrated Nursing Competencies Electronic Record System
+Urup Dunging Transliteration System
+MyQueue A Virtual Queuing Application to Support Social Distancing
+AR Gallery using Spark AR
+Hybrid of Bluetooth Beacon with WiFi mapping for improving indoor positioning
+Androidbased Property Rental Mobile Application and Smart Tenancy Contract with Tru
+Employee Attendance Management System with GPS Face Recognition Verification in
+ECommerce Platform with Facebook Live Scheduling System
+Improving the Accuracy of D Facial Detection and Recognition of Masked Faces
+Artificial IntelligenceAI Prediction Hierarchical Prediction Modelling on Inventory Repl
+FCSIT Student Welfare System
+IoT Based Water Quality Monitoring System for Sabah Aquaculture Targeting Freshwate
+Merits and Demerits Discplinary System at Sekolah Kebangsaan Pekan Tongod Telupid
+Runner Service System HelpIT
+WebBased ELearning System for Secondary Schools
+Petfolio Grooming and Boarding Online System
+Smart Pet Feeder
+Student Visa Web Management System
+Mood Detector App
+Pills Reminder App
+Limbang Food Hunt for Tourism
+Homestay Management System
+Red Flag Sexual Grooming Awareness for Schoolchildren Using Gamebased Learning Approach
+Developing Web Application to Generate Word Search Puzzle on Vocabulary as Teaching Method
+THE SIGN A COMPUTER GAME TO LEARN AND RELEARN ABOUT ROAD SIGNS IN MALAYSIA
+HiKING Lost A COMPUTER GAME TO LEARN THE SURVIVAL SKILLS IF ONE LOST
+An application assists SPM candidates to improve grammar in morphological aspects
+Kuching Safe Mobile Application KSMA
+Remote Desktop Application SystemRDAS
+UNIMAS Bus Booking System
+Guard Patrol Monitoring System
+Student and Lecturer Booking Appointment System
+Persatuan Sahabat Prihatin PSP Charity Work Management System
+Child Presence Alert System using Arduino
+A Web Based School Canteen Ordering System
+Badminton Point A mobile application for booking purposes
+A MOBILE APPLICATION FOR SEAFARERS RECRUITMENT
+iCar Fingerprint
+Class attendance system with face recognition
+WebBased Management System for Sri Aman Driving School
+IoTBased Automated Agricultural Land Rover for Eggplants
+An Interactive Journey On Endangered Wildlife in Malaysia
+WebBased Plantation Mapping System for Agarwood Tree
+Pest Categorization Application
+A Personality Assessment Job Portal
+A Secure Unimas Student Representative Council through blockchain technology
+Chatbot for The Unimas Coffee Club at Lakeview
+IOT Automated Fertigation System for Figs in Pengkalan Kuap Figs Garden
+Intelligent Agent for Controlling Arduino Car
+Chatbot for FCSIT Information Hub
+IOTBASED MONITORING SYSTEM FOR BIODIGESTER
+Web Based System for Toasty Diner
+Diseased and Healthy Plant ImageBased Classification
+Smart Lockable Bin with Internet of Things IoT Arduino
+Healthy Food idea
+LifeCare Online Pharmacy Shop
+Educational Website Rugby is Easy
+Emotional Prediction using CV analysis
+Iban Learning Apps Offline Mode
+Smart Scanning Vaccination Status
+Web Application to Assist Learning Management Among Students and Educators
+COSTBENEFIT PROJECTION APPLICATION OF AN AQUAPONIC SYSTEM USING DATA ANALY
+Online Booking System for Palma Badminton Court
+Mobile Application of Food Finder
+UNIMAS eCourse Credit and Grade Transfer System eCCGTS
+UNIMAS Student Forum System
+Implementation of QR Code in Museum Exhibition Application
+Selecting a Preferred Movie based on a Movie Recommendation System
+Selecting Book to Read Next Using Book Recommendation System
+Portfolio Management System For Graduate Students Achievement Tracker in UNIMAS
+DSLMS Leave Management System For Interns In Data Solutions Sarawak Sdn Bhd
+Design and Implementation of an Android Based GPA Calculator
+Health Monitoring System Using RadioFrequency Identification RFID
+Intelligent solar panel rotation and energy monitoring
+Swiftlet House Monitoring using IoT
+UNIMAS Smart Parking Sensor Using IoT
+Building Structure Health Monitoring System using IoT
+Social distancing application using IR sensor and Internet of Things IoT
+Smart Water Monitoring System for White Pepper Production
+IoT Based Patient Health Monitoring System Using ESP
+Smart Home Virtual Mirror Using Raspberry Pi
+Smart Farming Management for Fertigation System using Raspberry Pi
+IoT Based Energy Monitoring System Using Raspberry PI
+Personalized User Interface System Design for Elderly on Smart Devices
+Application of Human Motion Tracking into Interactive Signage with Virtual Companion
+Laundry Pickup and Delivery app
+Venture Capital Investment Platform
+Eacademic System for SJKC Chung Hua No
+Resource Management System for SJK Chung Hua No ePusat Sumber
+WiFi Dry Box with Raspberry Pi IoT
+Tuition Centre Management System for Little Achievers Academy
+TEACHERPARENT ANNOUNCEMENT APPLICATION eAnnouncement for SJK Chung Hua No
+FCSIT Postgraduate by Research Internal Rigorous Assessment and Proposal Defense System
+Webbased Business Solutions for Small Enterprise
+FCSIT Postgraduate by Research Management System PGRMS
+AndroidBased Mobile Application WebBased Application eStudent Pass System
+Leave Management System
+The educational systemapp for Teaching and Learning at Home PdPR
+Sex education awareness application
+SelfFood Ordering System for A Restaurant
+ShareNeed An Essentials Donation Android Application
+Aju Cendol Inventory System
+Image Rotation Correction Using Machine Learning
+A Gamified Mobile App for Learning Elementary Mathematical Operations
+A Gamified App For Malaysian Sign Language Alphabets Learning Using CNN
+Frog Species Classification by using Deep Learning Framework
+Mustify Sketchbased Image Retrieval System
+SHELF Web based online marketplace for buying and selling used university textbooks
+University Club Management System UCMS
+Car Rental Website Development for Young Entrepreneur
+Land and Survey Notice to Quit System
+Expenses Tracker
+Patient Appointment Scheduler System
+COVIDs Estimated Likelihood Reproduction Number Rt for Sarawak
+The Statistical Analysis And Data Visualization Approach In Investigating The SocioEconomic And De
+The Detection Of The Main Components On The Mysejahtera Status Page On A Screen Phone Displ
+AndroidBased Disease Hotspot Detector
+HFMD Monitoring System
+Dengue Mobile Application Monitoring System DeMAMS
+Sarawak COVID Information Mobile Application for Android
+Halal Hubs Mobile Application
+Designing a Web Application Management System and Database for EcoTourism Activities in Marak
+Designing Tourism Activities Management System for Bombon Marakau
+Webbased Time Management Application with Integrated Pomodoro Timer
+Society for the Prevention of Cruelty Animals SPCA Sandakan Web Application
+Developing an EcoTourism Mobile Application for Rural Community
+Designing a Work From Home Report and Job Monitor for Pejabat Pendidikan Daerah Kota Tinggi
+Designing Dashboard for Ticket Monitoring System
+A Web App designed to locate and help the people in need of essential items
+Capsicum annuum Bell pepper as Automated RedLight Treatment
+Flood Detector System
+UNIMAS Smart Street Light System
+Smart Waste Management System
+iAquaPlant Homebase Iot Aquaponic System
+JustShop Mobile Application of Small and Medium Enterprises SMEs Locator
+SMART Foodbank System
+AntiBullying and Suicide Prevention Application
+CROWD COUNTERA Tool to Count Number of People using Deep Learning
+Claim System with Fraud Prevention Using Blockchain Technology
+A mobile platform for Learning Quran Recitation through hybrid approach
+Malaysian Sign Language translator using deep learning for a chat system
+TRI Location and Wellbeing Monitoring System for Down Syndrome Individual
+A Platform for Assisting Ambulance Traffic to Reduce Accidents and Improve Arrival Time
+Soothe Soul SelfTreatment Monitoring App for Major Depressive Disorder
+Nutritsy A mobile platform to create a tailormade meal plan
+A Trusted Rental Platform Using Blockchain Approach
+Rehapp A Mobile App to Reduce Smartphone Addiction
+Covid Inventory Management Apps
+SIGNADORA AN INTERACTIVE MOBILE APP FOR MALAYSIAN SIGN LANGUAGE MSL BASIC LANGUAGE
+MonitorMe An Interactive Mobile App to Monitor Primary School Teaching Learning
+iLEFM Interactive Leftover Food Management Mobile Apps
+Homework Reminder Apps
+Learn Phonic Pronunciation for Preschool
+iScience Interactive Quiz Application Science Subject for Primary
+CREATING OCCUPATIONAL HEALTH AND SAFETY AWARENESS AT THE UNIVERSITY THROU
+Automated air humidity controller for swiftlet farms to maintain optimal nesting environment using Inter
+RealTime Remote System Performance Monitoring for Haemodialysis Reverse Osmosis Water Purifi
+Computerized Inventory Management System For FCSIT Workshop
+COVID Patient Health Monitoring Using IoT
+A WebBased System for Food Bank Management by NonGovernmental Organizations in Sarawak
+IoTBased Irrigation And WebMonitoring System
+Charity Management System
+eSPBT Textbook loan scheme SPBT management system for Buyong Adil Secondary School
+Friend circle solution
+Hawker Locator using Mobile Application
+Nutrition Chatbot System using Deep Learning
+Auto Timetable Management Mobile Application
+WeWasteNoMoreFood Waste Management Food Aid App
+ECommerce for an Auto Spare Part Shop
+A Systematic University Course Timetabling Problem using Modified Ant System Algorithm
+Improving Plant Classification through Several Feature Selection Methods
+Cryptocurrency Market Forecasting Using Machine Learning
+Students Performance Analysis Using Machine Learning with RapidMiner Studio
+Leaf Image Classifier Using Machine Learning
+Data Analytics in Trending Youtube Video for Category People and Blog
+TRIZ Based System For Managing Food Wastage
+deLight Mobile Application
+Student Helper System
+Twitter Sentimentanalysis on COVID Vaccination
+Community Idea Knowledge Bank
+Crowdsourcing Platform For Young Inventors
+Personal Career Development Recommendation System
+UNIMAS ALUMNI ePERKS
+Wakaf Land Administration System WLAD
+EasyRunner A mobile app for Runner service
+Categorical Filtering Method on FYP Selection System
+MENSTRUATION TRACKER APPLICATION Moon Time
+Pharmacy Medicine Management System
+Application for Grocery Shopping
+Diet Buddy App
+Aid Application App
+RORO Medicine Reminder
+IOT ENABLING MEDICINE REMINDER USING ARDUINO
+POSEIDON Mobile Monitoring and Controlling Application for Smart Aquaponic System
+Daily Task Organizing and Monitoring Android Application
+Kyonority Food Provision WebBased System
+JOMS WebBased Job Marketplace System
+Biological Spatial Pigment Pattern Formation in Zebrafish Skin
+Mathematical Modelling of cell migration and proliferation during wound healing in human body
+Comparison of HN and CoVID Epidemic Spreading using Random Walk
+Food Bank Application
+Gamification of Personal Task Management Application
+Hijama Cupping Physiopedia Diagnostic App
+Online Goods Ordering System OGOS
+Gamification in Learning Architecture Design with Augmented RealityAR
+Women Safety App
+Hijama cupping Therapy Clinic Appointment System
+Medicare Related Applications MedMnemonic
+Online Shopping and Management System OSMS
+Asset management system for Lembaga Amanah Kebajikan Masjid Negeri Sarawak
+Machine Learning Approaches in Prediction of Autism Spectrum Disorder Risk Based on Family Medi
+Ticketless Carpark Entrance and Exit using Automatic Car Plate Recognition
+Malaysian Sign Language Recognition using D Hand Pose Estimation
+Do you know my name Learning Mandarin through GameBased Learning
+Banana Freshness Recognition Using DCNN Model
+IPTables Web Manager
+DotMath Puzzle game for learning number facts
+Ching Trading Web Application
+Go Dutch Application to split bill
+UNIMAS Fault Reporting Application UNIMASFRA
+Statistical modelling on Malaysia COVID data
+Exploratory Spatial Data Analysis and Map Visualization with Geocomputational software for COVID
+Spatial data modeling of COVID in Peninsular Malaysia
+Essay Writing Webbased System for PreUniversity Students
+Health Information System with Intelligent Search and Reporting Module
+MYADUAN MOBILE APPLICATION COMPLAINT SYSTEM FOR PENANG CITIZENS
+EPharmacy with Pharmabot
+eXtra Job Mobilebased Extra Job Application
+Private Tutor Finding System
+eSCRIM A New Platform for Booking and Drop Spot Reservation System
+UNIMAS LOST AND FOUND MANAGEMENT SYSTEM
+Temperature Detection with Access Card for Room Access
+Desktopbased Automated Trading EA
+Evaluation on Machine Learning Classifier for Android Malware Detection
+Contactless Authorization System CAS contactless entry authorization system for a nonpublic are
+Trivia Numbers mobile game
+Students Performance Monitoring System
+Longhouse Record and Finance Management System
+ProCare Application
+Eucare Pharmacy Application
+UNIMAS Internship Application System
+A Digital Marketing Mobile Application For Small And Mediumsized Enterprise At Kuching Sarawak
+Improving Data Management System For a Language Data Collecting Website
+A Mobile Application with Chatbot for FCSIT Student Guide
+Speech recognition system to validate dyslexic childrens speech
+Transforming the Interface and Features of Kalaka Web Based System for better User Experience
+eSB SUNNY BOUQUET WEBBASED SYSTEM
+A Study on Sentiment Analysis of Malaysian tweets on COVID vaccination
+Performance Evaluation of Data Collection Techniques in Wireless Sensor Networks
+PollEing System in Campus
+IoT wearable for highrisk patients and senior citizen
+Modelling Team Formation Problem in Mobile Legends Bang Bang MLBB Esports Using Goal Progr
+Teambased Training Selection in Defence of the Ancients DOTA Esports Using AHP
+Quantitative Analysis of Similarity Between MOBA Games using AHP
+River Incidents Tracker Using Global Positioning System
+Identification of Songs Categories Using Machine Learning
+Inventory System for Personal Shoppers
+Smart Doorbell with Horn Detection System
+Spam Detection in Twitter Using Machine Learning
+VirtualRealityBased Gamification in Lower Primary School Mathematics
+Penang Ho Jiak A Recommender System RS based on Facebook Pages of FB outlets in Penang
+A Machine Learning Approach to Predict Fitness Level
+Automated Classification of Domestic Violence Tweets
+Automated Classification of Song Lyrics into Genre Using Sentiment Analysis and Machine Learning
+Sarcasm Detection on Political Tweets by using Semantic Analysis
+SaGaBot Knows Your Admired Historical Figure More
+Discovering Popular Topic of Sarawak Gazzete SaGa from Twitter using Deep Learning
+Preservation of Bidayuh Folklore and Symbolism withGamebased Learning
+AMENO AN ONLINE POST THREADING WEB APPLICATION WITH CATEGORIES FOR THE GAM
+LATIH INTERACTIVE QUIZ AND EXERCISE IN GAMEBASED LEARNING GBL
+Self Help for Mental Health Disorders System using Progressive Web Application
+PeSewaRental App for NonResident Student
+ARventure Edutainment meets Science
+DAKAYA
+English Kidz A GamificationBased Mobile App for English Learning Among Preschooler Post COVI
+Erudite Survivor A Gamificationbased Mobile App for Disaster Awareness Among Children in Malays
+SmartGaji A gamification based mobile application for contractors cashflow
+MakanSmart A gamificationbased mobile app for healthy eating habits among children
+KiddosSmart Gamification apps for children protective measures post Covid
+SmartJoy A gamification based mobile app for daily exercise for children years old
+SmartCyber Gamification application for promoting cyber safety among children in postpandemic era
+SOCIAL ONLINE VOTING SYSTEM
+Predicting the Trend of Malaysia Bank Stock Using ARIMA Model
+Food ordering app
+Car Rental Business Apps
+Webbased Dashboard for FCSIT Academic Staff Publication Data
+Webbased System for Pet Food amp Supplies
+Augmented Reality for Childhood Education Writingaided Tools
+Individualbased Model for the Spread of Dengue
+Food ordering mobile application for UNIMAS Student Pavilion
+Sentiment Analysis on Malaysian Public Opinion about Remote Working on Twitter during COVID
+Accessible online garments shopping using voice recognition for the blind
+Smart Attendance System with IoT
+Student Movement System
+OvertheLine Parking Sensor System Using Infrared Sensor
+Integrated FYP Management System Using Angular
+Keep In Shape A mobile application for lifestyle purpose
+Fingerprint Online Voting System
+ATTENDANCE MANAGEMENT SYSTEM USING FACE RECOGNITION
+STUDENT ACHIEVEMENT SYSTEM
+Vehicle Theft Detection
+Faculty Management SystemFCSIT
+Lets Battle COVID An android mobile game to raise awareness of the global pandemic
+Na Na Bakery and Cafe Sales System Na Na Sales System
+Bangladesh Tourist Information System
+IT Asset Management System by Implementing Laravel PHP Framework
+Appointment Booking System for UniK using LARAVEL
+QR CODE ATTENDANCE SYSTEM FOR SEKOLAH PENDIDIKAN KHAS KOTA SAMAR
+iBinyuk Sales Management System and Androidbased application for Kampung Binyuk
+Program Self Assessment Review Web based system
+Ethnicity Classification Using Deep Learning
+Facial Expression Classification Using Convolutional Neural Network CNN
+Image Rotation Correction Using Machine Learning
+The Development of Malaria Game
+Text Recognition for Grocery with TensorFlow in Mobile Device for Visual Impairment
+CiRRaff Online checkin room application for Rafflesia College
+Lecturer Career System LECAS
+Mobile Application for Extra Credit Hours Application Form
+TRIZ Knowledge Collection App
+Personal Career Development Recommendation System
+Android Itinerary Planner
+V App for Vision Impaired using AI Service
+Simulation Of Water Flow in Tidal Wave Influenced By Gravity Impact
+Implementation of an Integrated Library Management System at the UNIMAS ILMS
+Food Ordering Application using QR Code for Small or New Restaurant
+A Mosque WebBased System for Bitul Mamur Jame Masjid in Bangladesh
+NakTanya A Mobile Based Service System
+Unimas Carpool mobile application
+eTamu for Selangaus Rural Products
+Bibliometric Visualization of COVID articles in Computer Science
+Bibliometric Visualization of COVID articles in the area of Information Systems
+Maju Jaya Mesra Sdn Bhd Virtual Office System
+SRITI AlFateh School Management System
+Lets Arabic Interactive Mobile App with the introductory level content for basic knowledge of writing Arabic alphabet and numbers
+Helping Hand Food Wastage Reduction System in WebBased
+Heuristic for Nurse Scheduling
+Cybersecurity Social Engineering Awareness Assessment Among Students in UNIMAS
+St Marks Catholic Church Management System
+Turtle Adventure An Educational Application to Teach Sea Turtle Conservation Awareness
+Evaluating Sex Education Application using Technology Acceptance Model TAM
+Telabau Melanau Learning Apps for Tourist Beginner
+Exploring Historical Figure in ESarawak Gazette Through Educational Games
+Personalized WebBased PointOfSale POS and Kitchen Display System KDS with QR Code Ordering for Restoran Nurhikma
+SelfService Ordering System for Fazzahs Kitchen
+THE DIGITIZATION OF POSTGRADUATE PROGRAMS INFORMATION IN CENTRE FOR GRADUATE STUDIES CGS
+MLaundry Service Application System
+Personal Planner PerPlanMobile Application
+Online Food Delivery in UNIMAS UNIMAS Foodie App
+Student Course Registration Coordination System SCRCS
+Mental Health Assistant Chatbot for University Students Based On the Depression Anxiety and Stress Scale DASS
+Budgeting mobile application with computer vision
+Sports Facility Reservation Platform in Bintulu BorneoFitBTU
+Web Application for Students to learn Bahasa Melayu Sarawak Juh Kelaka Melayu Sarawak
+A Microservice for Facility Reservation System
+Personalized Task Management System for Interns
+Easy Use Accounting System For SME Using Mobile Apps
+FComparison of Four Technical Analysis Indicators Moving Average Convergence Divergence MACD Relative Strength Index RS
+Smart Sewerage with Web Monitoring System
+Data Analytics Dashboard of IoTbased Water Quality Monitoring for Sustainable Smart Farming
+UniGo UNIMAS Digital Summons System
+Soil Fertility Management Aid for the Health and Yield of Chilli Trees
+MEMZAPP SELFDIRECTED LEARNING SYSTEM FOR STUDENTS
+Mobile Application for Traditional Food business
+Mobile Application for Monitoring Fogging Dengue Control
+Gamification An Interactive Quiz Game for Kids Learning
+A Wellness Mobile Application
+PBTPay Mobile Application Using Flutter Framework
+Brooke Dockyard IT Asset Management System
+CHILI PEPPER SPECIES CLASSIFICATION USING DEEP LEARNING
+Web scraping Regarding Temporary Events that Causes Supply Risk
+Prototype of Smart Home System Using Raspberry Pi
+The Development of Arduinobased Robotic Arm
+PIR Based Motion Detection System With Shareable Alert
+Reactive Motion Detector
+A Webbased Satay Sales Management System
+Mobile application for Tempe Business
+Enhancing Occupational Safety and Health Training in the Modern Farming Sector An Augmented Realitybased Framework
+Money Monsta A Visual Novel Game about Money Management for Primary School Students
+WebBased Ecommerce system for Indigenous Communitybased Handicraft
+Safana Bekam Cupping Therapy Clinic System
+Alun A Mobile Application for Learning Sarawak Traditional Musical Instruments
+Discovering historical figures from Sarawak Gazette through collection management system
+FCSIT Loan Management System
+Interactive Statistics Mental Health Data Report MeHDaR
+MyBMI Interactive Mobile App to boost healthy exercise and lifestyle for obese teenagers
+EEGbased Biometric Authentication Modelling using Convolutional Neural Network
+Mission to the Star The Extraordinary Journey of Parker Solar Probe to the Sun
+A Machine Learning Approach for Autism Spectrum Disorder Prediction Using Screening Data
+VisioAssist A smart integrated system to assist visually impaired VI and Blind people in navigation
+SECONDHAND SMARTSHOP
+Sentiment Analysis of Sexual Harassment in Malaysia on Twitter Using Machine Learning Algorithms
+Valorant AI Coaching Using Deep Learning Approach Identifying Common Player Mistakes
+TRIZ Knowledge Collection App
+RealTime Malaysian Sign Language Recognition
+Inventory Management System for Pheck Nam Aluminium Works
+FCSITParent Access System
+Intelligent Tourist Travelling System
+Flood Warning Notification System
+SaGa Encoding the Structures of Historical Documents using TEIXML Schema
+Ramadhan Construction Management System
+IoT Based Smart Home Planting System
+Supply Chain Traceability for Bird Nest Product using Blockchain Framework
+Smart Routing for Solid Waste Collection
+Mobile Dietary App Application for University Students
+Flash Flood Observer
+Flight Status Prediction
+Implementation and Performance Analysis of Machine Learning Models for Detecting Phishing Attack on Website
+An Inventory IT equipment Management System with a Complaint System for Sarawak Sport Corporation SSC IT department
+Teachers Learning Resources System TLRS
+Financial Literacy Mobile Application For UNIMAS Undergraduates Students
+The Acceptance of Digital Banking Among Old Adults An Application of Technology Acceptance Model
+Evaluating the Impact of Using GitHub Copilot by Computer Science Students at Universiti Malaysia Sarawak
+DY Hair Salon Online Management System DYSS
+Health Information System Web Application with Intelligent Search
+Occupational Safety and Health Administration Compliancy Application
+OpenTown Desa Ilmu Night Market Android Application
+Reseepy Rice Recipe Recommendation Webbased System Using Hybrid Filtering
+Kanzen Arena Online Recruitment Management System
+Digital Catalogue mobile application for brand manufacturers in Sarawak
+MyParcel Parcel Delivery Apps for UNIMAS residents at UNIMAS
+Personal Finance Management Web Application
+EinviteDigital Invitation Card Mobile Application
+Biometric Voting System
+Lecturer Meeting App
+University Program Recommendation Mobile Application Based On The Holland Code Interest Assessment
+ISO RISK MANAGEMENT SYSTEM FOR PERBADANAN NASIONAL BERHAD PERNAS
+Unimas Gym Management System
+Application for Learning Iban Language
+Plant detection app by using Computerassisted android system for plant identification based on leaf image using features of Scale
+EVoting System using Biometrics
+Carbon Footprint Tracker in Mobile Application
+A Webbased System for Prediction of Student Performance of Upcoming Public Exam based on Academic Records
+Interactive Learning through Mobile Gaming Application for Children with Autism
+Nonresident Rental House Management System
+Product and Offer Categorization System POCaS for Comparison Shopping Engine Websites
+Greenhouse Monitoring System
+Water Leakage Detection
+Augmented realitybased Framework to Troubleshoot Wifi problem
+Text Analysis and Visualization Bluffing vs Promises
+Identification of Sea Turtle using Deep Learning
+Detecting Biased Writing in Sarawak Gazette SAGA using Sentiment Analysis
+Scam Prevention Tool Development through Blockchain Smart Contract
+Health Tourism Application HEAL
+ENCHANCING THE IBAN FOLKLORE STORYBOOK USING AR APPLICATION Education Tourism
+Exploration of districtwise COVID spread in Sarawak using Geographically Weighted Regression GWR
+FB Ordering Web Based System for UNIMAS Students Pavilion
+PERTEKMA Exco Application System
+Lee Ling Futsal Court Booking System
+BKK Inventory System for Bahagian Komunikasi Korporat Jabatan Perkhidmatan Komputer Negeri using Progressive Web Applic
+IoTBased Intelligent Bin for Smart City
+Webbased CRM for Hearing Aid Center
+MecTime An Interactive reminder mobile application for the elderly to take their scheduled medication
+Detecting Botnet Attacks in Internet of Things Environments using Machine Learning
+Body Builder Chatbot
+TRIZ Approach to FYP Title and Supervisor Matching System
+EduSecure Educational app for cyber security
+Historical Documents Digitization using Crowdsourcing Approach
+Entity Linking of Sarawak Gazette SaGa using Deep Learning
+Design and Development of Metaverse for FYP Symposium
+Analogue Clock Game Using GameBased Learning Approach
+MyCv Instant Resume Builder App to help users especially university graduates to create a resume or CV easily and instantly
+Queuing System for Pavillion Cafeteria UNIMAS
+Health Monitoring System For Beloved ones
+Application Development for Nutrition Tracking Planning for UNIMAS Students
+Development of An Innovative Augmented Reality for Teaching Prenatal Education to Expecting Mothers
+Air Conditioner Efficiency Monitoring System using IoT
+School Children Pickup System Using Plate Recognition
+Determining the Impact of Computer Science Education at Secondary Level to Computer Science Courses for UNIMAS
+SELFMONITORING APP FOR HOME QUARANTINE COVID FOR SENIOR CITIZENS IN SAMARAHAN
+Design and Development of an ECommerce System Based on Python
+Forecasting Stock Price by Using Artificial Neural Networks
+A experimental Performance evaluation of LoRa Network
+An Intelligent Hybrid Model Using CNN and RNN for Crop Yield Prediction
+Lettuce Leaf Disease Detection Using Convolutional Neural Network Algorithm
+Developing Leaf Identification Mobile Application for FRST Plantation Study Using Convolutional Neural Network
+Report And Profiling Management System
+QR Code based Unimas EWallet app
+Dahlia Report System DRS
+Age and Gender Recognition Mobile App
+Enhancement of Vehicle Plate Number Recognition from LowResolution Images
+COVID Data Exploration Using Mapper Algorithm
+Automated tax refund for tourism using blockchain technology
+Crop Pests Image Classification Using Neural Network
+Unimas PartTime Job WebBased System
+Smart Street Parking Apps
+OWASP A Injection vulnerability in Web Application Development
+NgapSayor Gamification of home gardening process using AR
+SQLDataDetective Learn Standard Query Language SQL with a Webapp
+Modeling A Supply Risk Index
+Tailor Shop Management System For Blue Green Dress Making
+ForTailor RealTime Body Measurement Estimation using Deep Learning
+ELugStore
+CakeH Chatbot Soothing Booking Process
+Web Based Article Summarization using Machine Learning techniques
+MotherhoodView an eHealth record system for mother and child health clinic KKIA in Kuching Sarawak
+SmARt Medical Card
+Better In My Tummy A Mobile App to Prevent Food Waste
+PPD Kuala Nerus Meeting Room Reservation System
+Flood Aid Management System
+A webbased Evoting System with Automated Vote Counting for Residential College Election
+EVENT MANAGEMENT SYSTEM
+FCSIT ALUMNI INFORMATION SYSTEM
+Rainfall Prediction for Malaysia Using Historical Data
+Hoverboard Cruiser Online Rental System
+Company Internship Application and Management System WebBased
+Webbased Malay Grammar Tool for nonMalay primary school students
+Skim Pinjaman Buku Teks SPBT Management System
+Restaurant Employee Shift Scheduling System RS
+Student Database System for College Kenanga in Unimas
+Stray Care A platform for managing issues of stray animals
+QUEUING MANAGEMENT SYSTEM
+Image Processing on Android
+Predicting US Stock Prices Using Long ShortTerm Memory LSTM
+Predicting Cheaters in PUBG Mobile by using Random Forest Algorithm
+A System Dynamics Model for Dengue Fever
+Mobile Event Management Application for the Samarahan Community
+UNIMAS Sports Centre Online Booking System
+Fasting Reminder Mobile Application
+eInternship
+Daisuke A Gamified Mobile App for Car Rental Services
+Developing an Elearning Platform
+EUmrahUmrah Management System
+Personalised Course Recommendations System for learners in lifelong learning courses
+Recipe Library WebBased Application
+Salon Booking System
+RESEARCH INTO THE PREVALENCE OF INTERNET BUSINESS FRAUD IN MALAYSIA
+FACE RECOGNITION SYSTEM FOR PUBLIC TRANSPORT PAYMENT
+Meet SV A matchmaking system for Students and Lecturers for Final Year Project
+A Deep Learning Approach for Eye Disease Classification using Retinal Images
+Developing a more userfriendly accounting web application
+Modelling Spatial Distribution of Scarabaeidae in Sarawak
+Geospatial Text Analysis on Historical Documents Sarawak Gazette
+Webbased Lost Item Complaint System with Chatbot for Dahlia Residential College
+Borneo TRIZ System for Indigenous People
+A Study On Hyperparameter Tuning for Teachable Machine on an Isolated Word Speech Recognition for Childrens Speech
+Hand Gesture Interaction in Augmented Reality AR Learning Application
+Fruit Recognition Application Using Machine Learning
+IOT BASED OYSTER MUSHROOM CULTIVATION MONITORING AND CONTROLLING SYSTEM
+Coffee Ordering System
+Team Management Android Mobile Application for eAthletes Management
+eCollege Application System
+Design Thinking for Game based learning tool Case study on SK Kampung Rembus Primary School
+A Gas Tank Ordering System to Reduce Missing Orders and Improve Sales
+Hybrid Requirements Prioritization System using Cumulative Voting CV and Planning Game PG to Prioritize Requirements in
+A Framework for Smart Parking System using Radio Frequency Identification RFID
+Mobile Legend Bang Bang MLBB Win Loss Prediction by using Machine Learning
+Network Product Solutions Service Technology Website
+Scalable college hostel voting system using polygon technology
+Attendance System Using Beacon Technology for Course Training Session
+A Realtime Interactive Event Management Chatbot
+Company Birthday Management App
+Authority Application for Inefficient Instrument Preparation Attestation and Registration
+Nadias Assisted Annotation
+PlanTE Bus Transportation Trip Planner Application
+WebBased ELeave Management System ELMS
+Visualization Tool for Pathfinding Algorithm
+Time Slot for the Car Wash Shops Reservation
+Dementia Patients Caregiver Support System
+Moon Time Online Store For Menstrual Products
+Flash Flood Monitoring and Warning System
+Kudat Tour Map Mobile Development Kudat Tour
+Asma Cake House Ordering WebBased System
+SPMath WebBased Application For Learning Mathematics at SPM level
+Application of Transport Equation for Determination of Water Pollution
+Manga Recommendation System
+Kindergarten Facial Recognition Attendance Application System
+Pupil Assistance Program For UNIMAS
+Regression approaches and machine learning based methods for analyzing COVID data
+Augmented Realitybased Solution for Behavioral treatment among acrophobia patients
+SMART DEVICE UNINTERRUPTED ELECTRIC POWER SUPPLY FOR PRIMARY SCHOOLS
+Vehicle Counting System
+Automatic Plant Watering System
+SMART PARKING SYSTEM FOR KUALA NERUS TERENGGANU TURTLE KAPAK
+Food Ordering Application Using QR Code for Small or New Restaurant
+Sarawak NonFungible Token NFT Marketplace
+A Mobile App to Predict Disease Based on Symptoms Using Artificial Intelligence
+Online Job Portal using Psychometric Test
+Benchmarking Whisper OpenAI On Sarawak Languages
+Service To Your Door Webpage using Progressive Web Application
+eLearning Solar System for Primary School Year Students
+ADVERTISING LAND OF THE HORNBILLS AUTHENTIC TOURISM VIA AUGMENTED REALITY
+Emergency Response Mobile Application for People with Speech and Hearing Disabilities
+ESport News and Event Mobile Application in Sarawak
+Print It to Me An Online Document Printing Service System for UNIMAS Students
+GAME DEVELOPMENT AND EVALUATION OF ITS PLAYFULNESS
+Evaluating The Usefulness of Gamified AntiAnxiety Mobile Applications Using HedonicMotivation System Adoption Model HMSA
+Learn Microorganisms with Augmented Reality AR for Upper Secondary
+Mini Safari Animal using Augmented Reality
+Robe Rental and Return Tracking System using RFID
+Online LCs Sweet Treats Ordering System
+General Bus Management System
+Scrubb Home Cleaning Service Application
+Shopping Cart Calculator Using Barcode Scanner with Arduino
+Student Affairs Management System for SJK Chung Hua No
+COCURRICULUM SYSTEM FOR SJK CHUNG HUA NO
+Online Management System for SmallSized Beauty Salon
+Water Quality Monitoring And Control System For Soaking Tank In The Production Of White Peppercorns
+MyVec Vehicle maintenance reminder and doortodoor car service mobile application for students
+Web Based D Visualizer for Point Cloud in Real Time LiDaR Scanning
+Pejabat Daerah Setiu Letter and File Management System
+Web Application for AWASuicide Awareness Against Suicide among students
+Juz Amma Memorisation App for Children
+Campus Secondhand Goods Trading Platform
+IOT Automated Fertigation System for Figs in Pengkalan Kuap Figs Garden
+Smart Scanning Vaccination Status
+Food Finder System
+Android Mobile Marketplace for UNIMAS student
+Image Rotation Correction Using Machine Learning
+An approach to Detect Scrubs and Trees using Colour Filtering of PreProcesse
+iAquaPlant Homebase Iot Aquaponic System
+A mobile platform for Learning Quran Recitation through hybrid approach
+Covid Inventory Management Apps
+Web Based of Pusat Pengajian Kafa Integrasi AsSyakirin Samarahan Managem
+Lecturer Career System LECAS
+deLight Mobile Application
+Personal Career Development Recommendation System
+IPTables Web Manager
+UNIMAS Fault Reporting Application UNIMASFRA
+A Parking Management System Using Automatic Number Plate Recognition A
