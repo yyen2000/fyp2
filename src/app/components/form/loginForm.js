@@ -35,9 +35,9 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="flex items-center justify-center py-12 px-4 sm:px-6 lg:px-60">
-      <div className="absolute top-2 right-2 text-md"> {/* Adjusted to flex and added space between buttons */}
-        <Link href="/" className="hover:bg-gray-400 text-gray-800 py-2 px-4 rounded-l"> {/* Link to Student page */}
+    <div className="flex items-center justify-center py-6 px-4 sm:px-6 lg:px-60">
+      <div className="absolute top-2 right-2 text-md">
+        <Link href="/" className="hover:bg-gray-400 text-gray-800 py-2 px-4 rounded-l"> 
           Student
         </Link>
         <span>|</span>
@@ -45,9 +45,9 @@ export default function LoginPage() {
           Admin
         </Link>
       </div>
-      <div className="max-w-2xl w-auto space-y-10 lg:ml-30">
+      <div className="max-w-2xl w-auto space-y-2 lg:ml-30">
         <div>
-          <h2 className="mt-8 text-center text-5xl font-bold text-teal-900">
+          <h2 className="text-center text-5xl font-bold text-teal-900">
             FYPBot
           </h2>
           <p className="mt-4 text-center text-lg text-gray-600">
@@ -89,7 +89,7 @@ export default function LoginPage() {
               <div className="flex items-center justify-between">
                 <div className="flex items-center"></div>
                 <div className="text-sm mt-1">
-                  <a href="#" className="font-small text-indigo-600 hover:text-indigo-500">
+                  <a href="/" className="font-small text-indigo-600 hover:text-indigo-500">
                     Forgot your password?
                   </a>
                 </div>

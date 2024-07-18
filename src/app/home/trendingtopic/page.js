@@ -177,8 +177,8 @@ const TrendingCategories = () => {
 
     return (
         <div style={{ maxHeight: '100vh', overflowY: 'scroll' }}>
-            <div className='p-4 font-sans'>
-                <h1 className='text-2xl font-bold mb-4'>Trending Over the Years</h1>
+            <div className='px-4 py-2 font-sans'>
+                <h1 className='text-2xl font-bold mb-2'>Trending Over the Years</h1>
                 <span> within [2019-2023]</span>
                 <div className='relative w-full border mt-2 bg-white rounded-lg p-4'>
                     <Bar data={chartData} options={{
@@ -197,7 +197,7 @@ const TrendingCategories = () => {
 
                 {error && <div className="text-red-600 mt-4">{error}</div>} {/* Display error message if error state is set */}
 
-                <h1 className='text-2xl font-bold mb-4 mt-8'>Supervisor Specialization</h1>
+                <h1 className='text-2xl font-bold mb-4 mt-8'>Supervisor's Supervision</h1>
                 <div className='mb-4'>
                     <label htmlFor='supervisors' className='block text-lg font-medium text-gray-700'>Filter by Supervisor</label>
                     <select id='supervisors' onChange={handleSupervisorSelect} className='mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md'>
@@ -209,7 +209,7 @@ const TrendingCategories = () => {
                 </div>
                 <div className='flex flex-wrap'>
                     {selectedSupervisors.map(supervisor => (
-                        <div key={supervisor} className='flex items-center bg-blue-100 text-blue-800 text-sm font-medium mr-2 mb-2 px-3.5 py-0.5 rounded-full'>
+                        <div key={supervisor} className='flex items-center bg-gray-100 text-teal-800 text-sm font-medium mr-2 mb-2 px-3.5 py-0.5 rounded-full'>
                             <span>{supervisor}</span>
                             <button onClick={() => removeSupervisor(supervisor)} className='ml-2 focus:outline-none'>
                                 <svg className='w-4 h-4' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>

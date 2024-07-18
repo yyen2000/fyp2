@@ -9,10 +9,12 @@ export default function LoginAdmin() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
+  const [loading, setLoading] = useState(false); // Add loading state
   const router = useRouter();
 
   const handleSubmit = async (event) => {
     event.preventDefault();
+    setLoading(true); // Set loading to true when login starts
     try {
       const response = await axios.post('/api/login_admin', {
         username,
@@ -27,6 +29,8 @@ export default function LoginAdmin() {
     } catch (error) {
       console.error(error.response?.data?.message || 'Login failed');
       setErrorMessage(error.response?.data?.message || 'Login failed');
+    } finally {
+      setLoading(false); // Set loading to false when login ends
     }
   };
 
@@ -91,8 +95,16 @@ export default function LoginAdmin() {
             <button
               type="submit"
               className="group relative w-full flex justify-center py-2 px-4 border border-transparent text-lg font-medium rounded-md text-white bg-teal-800 hover:bg-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+              disabled={loading} // Disable button when loading
             >
-              Log In
+              {loading ? (
+                <svg className="animate-spin h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                  <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                  <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z"></path>
+                </svg>
+              ) : (
+                'Log In'
+              )}
             </button>
           </div>
         </form>

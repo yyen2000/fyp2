@@ -7,6 +7,7 @@
 .yarn/install-state.gz
 .history
 .env
+/saved_model
 
 # testing
 /coverage

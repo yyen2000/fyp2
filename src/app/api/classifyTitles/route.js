@@ -23,7 +23,6 @@ export async function POST(request) {
 
         const classificationResults = await classifyTitles(titles, userInterests);
 
-        // Map classification results back to the full data including supervisor details
         const resultsWithSupervisor = classificationResults.map(result => {
             const originalRow = rows.find(row => row.title === result.title);
             return {

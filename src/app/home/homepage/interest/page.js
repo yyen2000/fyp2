@@ -40,10 +40,9 @@ export default function HomePage() {
 
     const fetchTitles = async () => {
         try {
-            const response = await axios.get('/recommended_topics.txt');
-            const titlesArray = response.data.split('\n').map(title => title.trim());
+            const response = await axios.get('/api/fyp_plus');
+            const titlesArray = response.data;
             setTitles(titlesArray);
-            // Display number of titles fetched
             console.log(`Fetched ${titlesArray.length} titles.`);
         } catch (error) {
             console.error('Error fetching titles:', error);

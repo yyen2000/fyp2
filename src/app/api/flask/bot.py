@@ -2,6 +2,10 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import transformers
 import google.generativeai as genai
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 CORS(app)
@@ -10,7 +14,8 @@ CORS(app)
 # model_name = 'gpt2'
 # tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 # Configure the Google Generative AI client
-genai.configure(api_key="${process.env.NEXT_APP_API_KEY}")
+# print(environ.get('NEXT_APP_API_KEY'))
+genai.configure(api_key= os.getenv('GOOGLE_API_KEY'))
 
 # Create the model
 generation_config = {

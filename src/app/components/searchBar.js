@@ -4,17 +4,14 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { IoMdSearch } from "react-icons/io";
 
-export default function Home() {
+export default function Home({onSave}) {
   const [seedText, setSeedText] = useState('');
-  const [temperature, setTemperature] = useState(0.9);
   const [generatedTitle, setGeneratedTitle] = useState('');
   const [saveStatus, setSaveStatus] = useState('');
   
-
-
-
   const handleSubmit = async (e) => {
     e.preventDefault();
+
     try {
       const response = await axios.post('http://localhost:5328/api/generate', {
         seed_text: seedText,
@@ -27,20 +24,23 @@ export default function Home() {
 
   const handleSave = async () => {
     try {
-      const response = await axios.post('/api/recommendation', {
-        title: generatedTitle,
-      });
-      if (response.status === 200) {
-        setSaveStatus('Title saved successfully!');
-        // fetchTitles(); 
-      } else {
-        setSaveStatus('Failed to save title.');
-      }
+        const response = await axios.post('/api/recommendation', {
+            title: generatedTitle,
+        });
+        if (response.status === 200) {
+            setSaveStatus('Title saved successfully!');
+            onSave();
+            setTimeout(() => {
+                setSaveStatus('');
+            }, 3000);
+        } else {
+            setSaveStatus('Failed to save title.');
+        }
     } catch (error) {
-      console.error('Error saving title:', error);
-      setSaveStatus('Error Saving Title');
+        console.error('Error saving title:', error);
+        setSaveStatus('Error Saving Title');
     }
-  };
+};
 
   return (
     <div className="flex flex-col items-center justify-center">
@@ -79,6 +79,11 @@ export default function Home() {
               >
                 Save
               </button>
+            {saveStatus && (
+                <div className="mt-2 text-teal-900">
+                    {saveStatus}
+                </div>
+            )}
               <span className="absolute left-1/2 transform -translate-x-1/2 -translate-y-1/2 mb-2 w-max bg-black text-white text-xs rounded 
               py-1 px-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 Click to save the title to My Profile

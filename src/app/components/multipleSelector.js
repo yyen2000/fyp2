@@ -35,12 +35,12 @@ export default function MultipleInterestTopics({ value, onChange }) {
   const interests = [
     { id: 1, name: "Artificial Intelligence" },
     { id: 2, name: "Computational Modelling" },
-    { id: 3, name: "Cyber Security" },
+    { id: 3, name: "Cybersecurity Network" },
     { id: 4, name: "IoT Infrastructure" },
     { id: 5, name: "Visual Image Processing" },
     { id: 6, name: "Game Development" },
-    { id: 7, name: "Mobile Development" },
-    { id: 8, name: "Web Based Development" },
+    { id: 7, name: "Mobile App Development" },
+    { id: 8, name: "Web Development" },
   ];
 
   // Generate the placeholder text with truncation

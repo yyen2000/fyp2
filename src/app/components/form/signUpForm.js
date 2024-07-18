@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation';
 import ProgressBar from '../progressBar';
 import SelectOptions from '../singleSelector';
 import MultipleInterestTopics from '../multipleSelector';
-import { setCookie } from 'nookies'; // Add this import
+import { setCookie } from 'nookies'; 
 
 export default function SignUp() {
   const [studentId, setStudentId] = useState('');
@@ -77,7 +77,7 @@ export default function SignUp() {
 
   return (
     <div className="flex items-center justify-center px-4 sm:px-6 lg:px-60">
-      <div className="max-w-2xl w-auto space-y-4 lg:ml-30">
+      <div className="max-w-2xl w-auto lg:ml-30">
         <div>
           <h2 className="mt-8 text-center text-5xl font-bold text-teal-900">
             FYPBot

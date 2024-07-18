@@ -5,7 +5,7 @@ import axios from 'axios';
 import styles from '../../styles/PastFYP.module.css';
 import { ChevronLeft, ChevronRight, Delete } from '@mui/icons-material';
 import { Refresh } from '@mui/icons-material';
-import {IconButton, Snackbar, TextField} from '@mui/material';
+import { IconButton} from '@mui/material';
 
 const AdminFYPDatabase = () => {
   const [data, setData] = useState(null);
@@ -14,6 +14,7 @@ const AdminFYPDatabase = () => {
   const [searchID, setSearchID] = useState('');
   const [snackbarOpen, setSnackbarOpen] = useState(false);
   const [snackbarMessage, setSnackbarMessage] = useState('');
+  const [totalCount, setTotalCount] = useState(0);
   const titlesPerPage = 8;
 
   useEffect(() => {
@@ -25,6 +26,7 @@ const AdminFYPDatabase = () => {
     try {
       const response = await axios.get('/api/fyp');
       setData(response.data);
+      setTotalCount(response.data.length);
       setLoading(false);
     } catch (error) {
       setLoading(false);
@@ -93,7 +95,7 @@ const AdminFYPDatabase = () => {
     <div className={styles.container}>
       <div className={styles.header}>
         <div className={styles.title}>
-          {/* <strong className='text-2xl mr-12 text-bold underline'>List of FYP Topics</strong> */}
+          <strong className='text-2xl mr-12 text-bold underline'>List of FYP Topics</strong>
         </div>
         <div className={styles.filter}>
           <div className="text-sm flex text-black">
@@ -111,6 +113,9 @@ const AdminFYPDatabase = () => {
             </IconButton>
           </div>
         </div>
+      </div>
+      <div className="mt-2 text-md text-gray-700">
+        Total FYP Topics: {totalCount}
       </div>
       <div className={styles.pagination}>
         <IconButton onClick={handlePreviousClick} disabled={currentPage === 1} size="small">

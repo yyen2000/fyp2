@@ -40,9 +40,10 @@ export default function HomePage() {
 
     const fetchTitles = async () => {
         try {
-            const response = await axios.get('/recommended_topics.txt');
-            const titlesArray = response.data.split('\n').map(title => title.trim());
+            const response = await axios.get('/api/fyp_plus');
+            const titlesArray = response.data;
             setTitles(titlesArray);
+            console.log(`Fetched ${titlesArray.length} titles.`);
         } catch (error) {
             console.error('Error fetching titles:', error);
         }
@@ -111,8 +112,8 @@ export default function HomePage() {
                                 <thead className='sticky top-0 bg-gray-200'>
                                     <tr>
                                         <th className='py-3 px-2 border-b border-gray-200 rounded-tl-xl'>Category</th>
-                                        <th className='py-3 px-2 border-b border-gray-200 rounded-tr-xl'>Title</th>
-                                        <th className='py-3 px-2 border-b border-gray-200'>Supervisor</th>
+                                        <th className='py-3 px-2 border-b border-gray-200'>Title</th>
+                                        <th className='py-3 px-2 border-b border-gray-200 rounded-tr-xl'>Supervisor</th>
                                     </tr>
                                 </thead>
                                 <tbody>

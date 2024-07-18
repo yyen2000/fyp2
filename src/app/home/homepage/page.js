@@ -1,22 +1,22 @@
-'use client';
+'use client'
 
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import Link from 'next/link';
 import { ClipLoader } from 'react-spinners';
 import SearchBar from '@/app/components/searchBar';
 import { Refresh } from '@mui/icons-material';
 import { IconButton } from '@mui/material';
-import { FaUser } from 'react-icons/fa';
-import { FaRegEye } from "react-icons/fa";
-import { FaCopy, FaTrash } from "react-icons/fa";   
+import { FaRegEye, FaCopy, FaUser } from "react-icons/fa";
+import { GrFormViewHide } from "react-icons/gr";
 
 export default function HomePage() {
     const [results, setResults] = useState([]);
     const [userInterests, setUserInterests] = useState([]);
     const [loading, setLoading] = useState(true);
     const [savedTitles, setSavedTitles] = useState([]);
-    const [loadingSavedTitles, setLoadingSavedTitles] = useState(true);
+    const [isVisible, setIsVisible] = useState(true);
+    const childRef = useRef(null)
 
     useEffect(() => {
         fetchUserInterests();
@@ -50,6 +50,33 @@ export default function HomePage() {
         }
     };
 
+    const fetchSavedTitles = async () => {
+        try {
+            const response = await axios.get('/api/save');
+            setSavedTitles(response.data);
+        } catch (error) {
+            console.error('Error fetching saved titles:', error);
+        }
+    };
+
+    const refreshSavedTitles = async () => {
+        try {
+            const response = await axios.get('/api/save');
+            setSavedTitles(response.data);
+        } catch (error) {
+            console.error('Error refreshing saved titles:', error);
+        }
+    };
+
+    const handleCopy = (text) => {
+        navigator.clipboard.writeText(text);
+        alert('Title copied to clipboard!');
+    };
+
+    const toggleVisibility = () => {
+        setIsVisible(!isVisible);
+    };
+
     const refreshMatchedResults = () => {
         setResults(prevResults => {
             const matchedResults = prevResults.filter(result => result.matchesUserInterest);
@@ -72,39 +99,6 @@ export default function HomePage() {
         return array;
     };
 
-    const fetchSavedTitles = async () => {
-        try {
-            setLoadingSavedTitles(true);
-            const response = await axios.get('/api/save');
-            setSavedTitles(response.data);
-        } catch (error) {
-            console.error('Error fetching saved titles:', error);
-        } finally {
-            setLoadingSavedTitles(false);
-        }
-    };
-
-    const refreshSavedTitles = () => {
-        setSavedTitles(prevSavedTitles => {
-            const shuffledTitles = shuffleArray([...prevSavedTitles]);
-            return shuffledTitles;
-        });
-    };
-
-    const deleteSavedTitle = async (id) => {
-        try {
-            await axios.delete('/api/save', { data: { id } });
-            setSavedTitles(savedTitles.filter(title => title.id !== id));
-        } catch (error) {
-            console.error('Error deleting saved title:', error);
-        }
-    };
-
-    const handleCopy = (text) => {
-        navigator.clipboard.writeText(text);
-        alert('Title copied to clipboard!');
-    };
-
     const matchedResults = results.filter(result => result.matchesUserInterest);
     const unmatchedResults = results.filter(result => !result.matchesUserInterest);
 
@@ -120,44 +114,53 @@ export default function HomePage() {
         <div style={{ maxHeight: '100vh', overflowY: 'scroll' }}>
             <div className="px-4 font-sans">
                 <h1 className='text-2xl font-bold mb-4'>Personalized Recommendation</h1>
-                <SearchBar />
-                <div className='flex mb-2'>
-                    <h2 className='text-lg font-semibold'>Saved Titles From You</h2>
-                    <div className="ml-auto flex">
-                        <Link href="/" className="text-xs mt-2 font-semibold text-gray-600 underline">
-                            Show All
-                        </Link>
-                        <IconButton onClick={refreshSavedTitles} className="ml-2 text-xs mt-2 font-semibold text-gray-600">
-                            <Refresh fontSize="small" />
-                        </IconButton>
-                    </div>
-                </div>
-                <div className='flex overflow-x-auto gap-4 px-0 text-white drop-shadow-md text-center'>
-                    {savedTitles.slice(0, 5).map((savedTitle, index) => (
-                        <div key={index} className='relative w-full border-slate-800 bg-teal-600 rounded-lg drop-shadow-md group'>
-                            {savedTitle.category && (
-                                <div className='text-center rounded-tl-lg rounded-tr-lg text-md font-serif bg-gray-900 py-2 px-12'>
-                                    <span>Explore More Titles From Others</span>
-                                    <Tooltip text="This is a tooltip">
-                                        <button className="bg-blue-500 text-white p-2 rounded">Hover me</button>
-                                    </Tooltip>
-                                </div>
-                            )}
-                            <div className="py-8 pt-0">
-                                <button
-                                    className="select-none text-center transition-all absolute right-0 p-2"
-                                    onClick={() => handleCopy(savedTitle.recommendation)}
-                                    type="button">
-                                    <FaCopy />
+                <SearchBar onSave={fetchSavedTitles} />
+                {savedTitles.length > 0 && (
+                    <>
+                        <div className='flex mb-2'>
+                            <h2 className='text-lg font-semibold'>
+                                Titles You Have Saved
+                                <button onClick={toggleVisibility} className="mb-4 p-2 rounded">
+                                    {isVisible ? <FaRegEye /> : <GrFormViewHide />}
                                 </button>
-                            </div>
-                            <div className='mr-6 ml-6 mt-4 mb-8 text-sm text-center flex flex-col'>
-                                {savedTitle.recommendation}
+                            </h2>
+                            <div className="ml-auto flex">
+                                <Link href="homepage/savetitle" className="text-xs mt-4 font-semibold text-gray-600 underline">
+                                    Show All
+                                </Link>
+                                <IconButton onClick={refreshSavedTitles} className="ml-2 text-xs font-semibold text-gray-600">
+                                    <Refresh fontSize="small" />
+                                </IconButton>
                             </div>
                         </div>
-                    ))}
-                </div>
-                <div className='flex mb-2 mt-4'>
+
+                        {isVisible && (
+                            <div className="flex overflow-x-auto gap-4 px-0 text-white drop-shadow-md text-center">
+                                {savedTitles.slice(0, 5).map((savedTitle, index) => (
+                                    <div key={index} className="relative w-full border-slate-800 bg-teal-600 rounded-lg drop-shadow-md group">
+                                        <button
+                                            className="select-none text-center transition-all absolute right-0 p-3 text-gray text-sm"
+                                            onClick={() => handleCopy(savedTitle.recommendation)}
+                                            type="button"
+                                        >
+                                            <FaCopy />
+                                        </button>
+                                        <div className="pt-0">
+                                            <div className="text-center rounded-tl-lg rounded-tr-lg text-md font-serif bg-teal-800 py-2 px-12">
+                                                <span>Title Saved Id: {savedTitle.id}</span>
+                                            </div>
+                                        </div>
+                                        <div className="p-8 text-sm text-white">
+                                            {savedTitle.recommendation}
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        )}
+                    </>
+                )}
+
+                <div className='flex mb-2 mt-2'>
                     <h2 className='text-lg font-semibold'>Your Interests All Time</h2>
                     <div className="ml-auto flex">
                         <Link href="/home/homepage/interest" className="text-xs mt-2 font-semibold text-gray-600 underline">
@@ -175,7 +178,7 @@ export default function HomePage() {
                                 <span>{result.category}</span>
                             </div>
                             <div className="flex p-2 item-center justify-between-inline backdrop-blur-md ">
-                                <FaUser className="p-2 mr-4 mb-8 bg-teal-700 text-white rounded-full" />  
+                                <FaUser className="p-2 mr-4 mb-8 bg-teal-700 text-white rounded-full" />
                                 <h3 className="text-gray-800 text-xs font-bold cursor-pointer"> {result.supervisorName}</h3>
                                 <a href={result.supervisorLink} target="_blank" rel="noopener noreferrer" className="absolute inset-0 z-1 opacity-0 group-hover:opacity-100 focus:opacity-100 focus:outline-none transition-opacity duration-300">
                                     <div className=' item__overlay flex flex-col justify-center h-full absolute w-full top-0 transition-transform duration-300 bg-gradient-to-r hover:bg-gradient-to-l from-teal-600 to-teal-700 group-hover:translate-y-[-calc(100%-5.5rem)]'>
@@ -214,7 +217,7 @@ export default function HomePage() {
                                 <span>{result.category}</span>
                             </div>
                             <div className="flex p-2 item-center justify-between-inline backdrop-blur-md ">
-                                <FaUser className="p-2 mr-4 mb-8 bg-gray-700 text-white rounded-full" />  
+                                <FaUser className="p-2 mr-4 mb-8 bg-gray-700 text-white rounded-full" />
                                 <h3 className="text-black text-xs font-bold cursor-pointer"> {result.supervisorName}</h3>
                                 <a href={result.supervisorLink} target="_blank" rel="noopener noreferrer" className="absolute inset-0 z-1 opacity-0 group-hover:opacity-100 focus:opacity-100 focus:outline-none transition-opacity duration-300">
                                     <div className=' item__overlay flex flex-col justify-center h-full absolute w-full top-0 transition-transform duration-300 bg-gradient-to-r hover:bg-gradient-to-l from-slate-600 to-slate-700 group-hover:translate-y-[-calc(100%-5.5rem)]'>
